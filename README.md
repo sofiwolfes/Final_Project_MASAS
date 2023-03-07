@@ -2,6 +2,7 @@
 ...Will need to insert something here...possibly the overview...
 <br>
 
+
 ## Overview
 English is considered one of the hardest langauages to learn. For English Language Learners (ELLs), the road to fluency is paved with challenges. Thankfully, many public schools offer language assitance programs to ensure that children speaking another langauage can attain English proficiency. In fall 2019, "Texas reported the highest percentage of ELs among its public school students (19.6 percent)" (1). The purpose of this project is to analyze the academic progress (math, reading) of English Language Learners in Harris County Texas. 
 
@@ -46,6 +47,13 @@ Database
 
 
 
+### Deliverable 1
+
+Started going through the data in excel. Using formulas to clean the data. 
+
+
+exported file into SQL and started to create tabels 
+
 ### Deliverable 2
 Prepare and deliver a presentation that takes your class through your project, step by step.
 
@@ -62,3 +70,5 @@ Action items:
 
 ### Citations:
 1. National Center for Education Statistics. (2022). English Learners in Public Schools. Condition of Education. U.S. Department of Education, Institute of Education Sciences. Retrieved [date], from https://nces.ed.gov/programs/coe/indicator/cgf.
+
+
