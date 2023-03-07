@@ -15,7 +15,19 @@ Content | Action items:
 - Have at least four commits per team member (20 commits total)
 - Have a database that stores at least two tables (or collections) for the project
 
+<br>
+3/7 Questions:
+What grade(s) are we going to look at and why?
+There are some grades that include more subjects than other grades. What are we going to do about that?
 
+Currently working on cleaning xslx files
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Presentation | Action Items:
 
