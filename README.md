@@ -2,14 +2,22 @@
 Analysis of the academic progress of students in Harris County Texas in between 2019-2022.
 <br>
 
+Overview
+English is considered one of the hardest languages to learn. For English Learners (ELs), the road to fluency is paved with challenges. Thankfully, many public schools offer language assistance programs to ensure that children speaking another language can attain English proficiency. In fall 2019, "Texas reported the highest percentage of ELs among its public school students (19.6 percent)" (1). The purpose of this project is to analyze the academic progress (math, reading) of English Language Learners in Harris County Texas.
+In order to analyze this data accurately, we will follow the subsequent steps:
 
-## Overview
-English is considered one of the hardest languages to learn. For English Learners (ELs), the road to fluency is paved with challenges. Thankfully, many public schools offer language assistance programs to ensure that children speaking another language can attain English proficiency. In fall 2019, "Texas reported the highest percentage of ELs among its public school students (19.6 percent)" (1). The purpose of this project is to analyze the academic progress (math, reading) of English Language Learners in Harris County Texas. 
+1. Clean and prepare data
+2. Data exploring & Visualization
+3. Provide analysis of results found
+4. Form predictions through machine learning
 
-<br>
-...Overview will probably be a short summary of what will happen in each segement...could be broken into cleaning & preparing, data exploring & visualization, and last segment could be summarized as results & conclusion...
-<br>
+Understanding the learning needs of children who are English Learners in the US is extremely important at this time more than ever. As we process and analyze this data, we will be focusing on the following questions in our analysis:
+* As students progress through school grades, do their language arts (reading & writing) scores increase?
+* How do academic scores progress or change through the years for multicultural/multiracial demographics of students? 
+* How did the pandemic period impact the test scores of English Learners (EL)? 
+* How did the pandemic period impact the test scores of multiracial students?
 
+The final step of this project will involve machine learning and predictive analysis. In this segment, we will use supervised machine learning to make predictions of how scores may look for these student demographics in the coming years. 
 
  
 ### Segment 1 
