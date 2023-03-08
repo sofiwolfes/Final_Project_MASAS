@@ -8,3 +8,5 @@ Started going through the data in excel. Using formulas to clean the data.
 
 
 exported file into SQL and started to create tabels 
+
+Imported CSV Files into Pandas ran code to make us files are being read
