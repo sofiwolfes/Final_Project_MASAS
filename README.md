@@ -10,7 +10,9 @@ English is considered one of the hardest langauages to learn. For English Langua
 ...Overview will probably be a short summary of what will happen in each segement...could be broken into cleaning & preparing, data exploring & visualization, and last segment could be summarized as results & conclusion...
 <br>
 
-### Segment 1
+
+ 
+### Segment 1 
 Content | Action items:
 - Create a detailed README.md file
 - Have at least four commits per team member (20 commits total)
@@ -52,7 +54,8 @@ Database
 Started going through the data in excel. Using formulas to clean the data. 
 
 
-exported file into SQL and started to create tabels 
+exported file into SQL and started to create tabels
+
 
 ### Deliverable 2
 Prepare and deliver a presentation that takes your class through your project, step by step.
