@@ -1,10 +1,10 @@
 # Final Project
-...Will need to insert something here...possibly the overview...
+Analysis of the academic progress of students in Harris County Texas in between 2019-2022.
 <br>
 
 
 ## Overview
-English is considered one of the hardest langauages to learn. For English Language Learners (ELLs), the road to fluency is paved with challenges. Thankfully, many public schools offer language assitance programs to ensure that children speaking another langauage can attain English proficiency. In fall 2019, "Texas reported the highest percentage of ELs among its public school students (19.6 percent)" (1). The purpose of this project is to analyze the academic progress (math, reading) of English Language Learners in Harris County Texas. 
+English is considered one of the hardest languages to learn. For English Learners (ELs), the road to fluency is paved with challenges. Thankfully, many public schools offer language assistance programs to ensure that children speaking another language can attain English proficiency. In fall 2019, "Texas reported the highest percentage of ELs among its public school students (19.6 percent)" (1). The purpose of this project is to analyze the academic progress (math, reading) of English Language Learners in Harris County Texas. 
 
 <br>
 ...Overview will probably be a short summary of what will happen in each segement...could be broken into cleaning & preparing, data exploring & visualization, and last segment could be summarized as results & conclusion...
