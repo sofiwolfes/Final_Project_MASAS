@@ -2,7 +2,7 @@
 Analysis of the academic progress of students in Harris County Texas in between 2019-2022.
 <br>
 
-Overview
+### Overview
 English is considered one of the hardest languages to learn. For English Learners (ELs), the road to fluency is paved with challenges. Thankfully, many public schools offer language assistance programs to ensure that children speaking another language can attain English proficiency. In fall 2019, "Texas reported the highest percentage of ELs among its public school students (19.6 percent)" (1). The purpose of this project is to analyze the academic progress (math, reading) of English Language Learners in Harris County Texas.
 In order to analyze this data accurately, we will follow the subsequent steps:
 
