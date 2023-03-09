@@ -56,12 +56,14 @@ Database
 - Use tools like Tableau or JavaScript to build a dashboard that presents your results
 
 
-
 ### Deliverable 1
 
 Started going through the data in excel. Using formulas to clean the data. 
 
+exported file into SQL and started to create tabels 
 
+Imported CSV Files into Pandas ran code to make us files are being read
+=======
 exported file into SQL and started to create tabels
 
 
@@ -81,5 +83,4 @@ Action items:
 
 ### Citations:
 1. National Center for Education Statistics. (2022). English Learners in Public Schools. Condition of Education. U.S. Department of Education, Institute of Education Sciences. Retrieved [date], from https://nces.ed.gov/programs/coe/indicator/cgf.
-
 
