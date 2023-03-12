@@ -1,0 +1,43 @@
+﻿Primary_Key,School_Name,,,School_Year,YoY_State,State,YoY_Region_04,Region_04,YoY_District,District,YoY_African_American,African_American,YoY_Hispanic,Hispanic,YOY_White,White,YoY_Econ_Disadv,Econ_Disadv,YoY_ELL,ELL
+Harmony_Schools_Grade 3 Reading,Harmony_Schools,Grade 3 Reading,At Approaches Grade Level or Above,2021,-0.09,67%,-8%,68%,-15%,63%,-18%,63%,-16%,54%,-12%,76%,-17%,55%,-12%,59%
+Harmony_Schools_Grade 3 Reading,Harmony_Schools,Grade 3 Reading,At Approaches Grade Level or Above,2019,na,76%,na,76%,na,78%,na,81%,na,70%,na,88%,na,72%,na,71%
+Harmony_Schools_Grade 3 Reading,Harmony_Schools,Grade 3 Reading,At Meets Grade Level or Above,2021,-0.06,39%,-7%,39%,-25%,31%,-21%,30%,-26%,22%,-29%,47%,-24%,23%,-17%,31%
+Harmony_Schools_Grade 3 Reading,Harmony_Schools,Grade 3 Reading,At Meets Grade Level or Above,2019,na,45%,na,46%,na,56%,na,51%,na,48%,na,76%,na,47%,na,48%
+Harmony_Schools_Grade 3 Reading,Harmony_Schools,Grade 3 Reading,At Masters Grade Level,2021,-0.08,19%,-8%,20%,-23%,14%,-24%,12%,-20%,9%,-31%,21%,-18%,11%,-15%,15%
+Harmony_Schools_Grade 3 Reading,Harmony_Schools,Grade 3 Reading,At Masters Grade Level,2019,na,27%,na,28%,na,37%,na,36%,na,29%,na,52%,na,29%,na,30%
+Harmony_Schools_Grade 3 Mathematics,Harmony_Schools,Grade 3 Mathematics,At Approaches Grade Level or Above,2021,-0.17,62%,-17%,62%,-31%,49%,-33%,42%,-37%,39%,-19%,69%,-35%,40%,-32%,44%
+Harmony_Schools_Grade 3 Mathematics,Harmony_Schools,Grade 3 Mathematics,At Approaches Grade Level or Above,2019,na,79%,na,79%,na,80%,na,75%,na,76%,na,88%,na,75%,na,76%
+Harmony_Schools_Grade 3 Mathematics,Harmony_Schools,Grade 3 Mathematics,At Meets Grade Level or Above,2021,-0.18,31%,-18%,31%,-32%,19%,-31%,14%,-34%,9%,-37%,33%,-27%,14%,-26%,20%
+Harmony_Schools_Grade 3 Mathematics,Harmony_Schools,Grade 3 Mathematics,At Meets Grade Level or Above,2019,na,49%,na,49%,na,51%,na,45%,na,43%,na,70%,na,41%,na,46%
+Harmony_Schools_Grade 3 Mathematics,Harmony_Schools,Grade 3 Mathematics,At Masters Grade Level,2021,-0.11,14%,-10%,15%,-22%,8%,-15%,5%,-19%,2%,-47%,14%,-14%,5%,-14%,9%
+Harmony_Schools_Grade 3 Mathematics,Harmony_Schools,Grade 3 Mathematics,At Masters Grade Level,2019,na,25%,na,25%,na,30%,na,20%,na,21%,na,61%,na,19%,na,23%
+Harmony_Schools_Grade 4 Reading,Harmony_Schools,Grade 4 Reading,At Approaches Grade Level or Above,2021,-0.12,63%,-12%,63%,-25%,54%,-28%,52%,-29%,43%,-17%,75%,-28%,45%,-23%,52%
+Harmony_Schools_Grade 4 Reading,Harmony_Schools,Grade 4 Reading,At Approaches Grade Level or Above,2019,na,75%,na,75%,na,79%,na,80%,na,72%,na,92%,na,73%,na,75%
+Harmony_Schools_Grade 4 Reading,Harmony_Schools,Grade 4 Reading,At Meets Grade Level or Above,2021,-0.08,36%,-8%,37%,-20%,25%,-13%,29%,-22%,17%,-21%,38%,-20%,18%,-25%,21%
+Harmony_Schools_Grade 4 Reading,Harmony_Schools,Grade 4 Reading,At Meets Grade Level or Above,2019,na,44%,na,45%,na,45%,na,42%,na,39%,na,59%,na,38%,na,46%
+Harmony_Schools_Grade 4 Reading,Harmony_Schools,Grade 4 Reading,At Masters Grade Level,2021,-0.05,17%,-5%,18%,-14%,9%,-14%,8%,-10%,8%,-8%,16%,-14%,5%,-15%,7%
+Harmony_Schools_Grade 4 Reading,Harmony_Schools,Grade 4 Reading,At Masters Grade Level,2019,na,22%,na,23%,na,23%,na,22%,na,18%,na,24%,na,19%,na,22%
+Harmony_Schools_Grade 4 Mathematics,Harmony_Schools,Grade 4 Mathematics,At Approaches Grade Level or Above,2021,-0.16,59%,-16%,60%,-24%,50%,-26%,45%,-25%,42%,-15%,66%,-27%,41%,-28%,47%
+Harmony_Schools_Grade 4 Mathematics,Harmony_Schools,Grade 4 Mathematics,At Approaches Grade Level or Above,2019,na,75%,na,76%,na,74%,na,71%,na,67%,na,81%,na,68%,na,75%
+Harmony_Schools_Grade 4 Mathematics,Harmony_Schools,Grade 4 Mathematics,At Meets Grade Level or Above,2021,-0.12,36%,-12%,37%,-21%,23%,-16%,25%,-22%,14%,-25%,34%,-23%,16%,-24%,22%
+Harmony_Schools_Grade 4 Mathematics,Harmony_Schools,Grade 4 Mathematics,At Meets Grade Level or Above,2019,na,48%,na,49%,na,44%,na,41%,na,36%,na,59%,na,39%,na,46%
+Harmony_Schools_Grade 4 Mathematics,Harmony_Schools,Grade 4 Mathematics,At Masters Grade Level,2021,-0.07,21%,-8%,22%,-16%,12%,-18%,9%,-13%,6%,-13%,22%,-15%,6%,-15%,11%
+Harmony_Schools_Grade 4 Mathematics,Harmony_Schools,Grade 4 Mathematics,At Masters Grade Level,2019,na,28%,na,30%,na,28%,na,27%,na,19%,na,35%,na,21%,na,26%
+Harmony_Schools_Grade 5 Reading+,Harmony_Schools,Grade 5 Reading+,At Approaches Grade Level or Above,2021,-0.13,73%,-13%,73%,-13%,71%,-7%,72%,-16%,66%,-20%,74%,-16%,65%,-18%,65%
+Harmony_Schools_Grade 5 Reading+,Harmony_Schools,Grade 5 Reading+,At Approaches Grade Level or Above,2019,na,86%,na,86%,na,84%,na,79%,na,82%,na,94%,na,81%,na,83%
+Harmony_Schools_Grade 5 Reading+,Harmony_Schools,Grade 5 Reading+,At Meets Grade Level or Above,2021,-0.08,46%,-7%,47%,-6%,45%,-9%,40%,-2%,41%,-9%,55%,-7%,38%,-10%,35%
+Harmony_Schools_Grade 5 Reading+,Harmony_Schools,Grade 5 Reading+,At Meets Grade Level or Above,2019,na,54%,na,54%,na,51%,na,49%,na,43%,na,64%,na,45%,na,45%
+Harmony_Schools_Grade 5 Reading+,Harmony_Schools,Grade 5 Reading+,At Masters Grade Level,2021,0.01,30%,1%,31%,-2%,28%,0%,25%,3%,25%,-16%,29%,-3%,20%,-6%,20%
+Harmony_Schools_Grade 5 Reading+,Harmony_Schools,Grade 5 Reading+,At Masters Grade Level,2019,na,29%,na,30%,na,30%,na,25%,na,22%,na,45%,na,23%,na,26%
+Harmony_Schools_Grade 5 Mathematics+,Harmony_Schools,Grade 5 Mathematics+,At Approaches Grade Level or Above,2021,-0.2,70%,-19%,70%,-21%,66%,-21%,61%,-20%,64%,-22%,74%,-24%,60%,-28%,60%
+Harmony_Schools_Grade 5 Mathematics+,Harmony_Schools,Grade 5 Mathematics+,At Approaches Grade Level or Above,2019,na,90%,na,89%,na,87%,na,82%,na,84%,na,96%,na,84%,na,88%
+Harmony_Schools_Grade 5 Mathematics+,Harmony_Schools,Grade 5 Mathematics+,At Meets Grade Level or Above,2021,-0.14,44%,-14%,45%,-14%,41%,-15%,33%,-5%,40%,-19%,51%,-11%,35%,-14%,36%
+Harmony_Schools_Grade 5 Mathematics+,Harmony_Schools,Grade 5 Mathematics+,At Meets Grade Level or Above,2019,na,58%,na,59%,na,55%,na,48%,na,45%,na,70%,na,46%,na,50%
+Harmony_Schools_Grade 5 Mathematics+,Harmony_Schools,Grade 5 Mathematics+,At Masters Grade Level,2021,-0.11,25%,-12%,26%,-13%,21%,-11%,16%,-7%,19%,-26%,21%,-12%,14%,-16%,15%
+Harmony_Schools_Grade 5 Mathematics+,Harmony_Schools,Grade 5 Mathematics+,At Masters Grade Level,2019,na,36%,na,38%,na,34%,na,27%,na,26%,na,47%,na,26%,na,31%
+Harmony_Schools_Grade 5 Science,Harmony_Schools,Grade 5 Science,At Approaches Grade Level or Above,2021,-0.13,62%,-13%,62%,-10%,55%,-15%,46%,-8%,51%,-11%,66%,-11%,48%,-11%,49%
+Harmony_Schools_Grade 5 Science,Harmony_Schools,Grade 5 Science,At Approaches Grade Level or Above,2019,na,75%,na,75%,na,65%,na,61%,na,59%,na,77%,na,59%,na,60%
+Harmony_Schools_Grade 5 Science,Harmony_Schools,Grade 5 Science,At Meets Grade Level or Above,2021,-0.18,31%,-18%,32%,-10%,26%,-8%,18%,-10%,21%,-19%,32%,-10%,19%,-14%,18%
+Harmony_Schools_Grade 5 Science,Harmony_Schools,Grade 5 Science,At Meets Grade Level or Above,2019,na,49%,na,50%,na,36%,na,26%,na,31%,na,51%,na,29%,na,32%
+Harmony_Schools_Grade 5 Science,Harmony_Schools,Grade 5 Science,At Masters Grade Level,2021,-0.11,13%,-11%,14%,-5%,10%,0%,6%,-5%,7%,-3%,18%,-5%,6%,-8%,6%
+Harmony_Schools_Grade 5 Science,Harmony_Schools,Grade 5 Science,At Masters Grade Level,2019,na,24%,na,25%,na,15%,na,6%,na,12%,na,21%,na,11%,na,14%

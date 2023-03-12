@@ -1,0 +1,67 @@
+﻿Primary_Key,School_Name,Test_Score,"STAAR Performance Rates by Tested Grade, Subject, and Performance Level",School_Year,State,Region_04,District,African_American,Hispanic,White,American_Indian,Asian,Pacific_Islander,Two_or_More_Races,Special_Ed_Current,Continuously_Enrolled,Non_Continuously_Enrolled,Econ_Disadv,ELL
+Deer_Park_ISD_Grade 3 Reading,Deer_Park_ISD,Grade 3 Reading,At Approaches Grade Level or Above,2019,0.76,0.76,0.82,0.67,0.77,0.88,-,0.86,-,0.91,0.45,0.83,0.78,0.74,0.66
+Deer_Park_ISD_Grade 3 Reading,Deer_Park_ISD,Grade 3 Reading,At Approaches Grade Level or Above,2018,0.77,0.77,0.83,0.78,0.78,0.91,-,0.80,-,0.79,0.66,0.85,0.75,0.77,0.78
+Deer_Park_ISD_Grade 3 Reading,Deer_Park_ISD,Grade 3 Reading,At Meets Grade Level or Above,2019,0.45,0.46,0.45,0.22,0.39,0.55,-,0.71,-,0.27,0.18,0.46,0.40,0.33,0.32
+Deer_Park_ISD_Grade 3 Reading,Deer_Park_ISD,Grade 3 Reading,At Meets Grade Level or Above,2018,0.43,0.44,0.46,0.17,0.41,0.56,-,0.80,-,0.58,0.34,0.50,0.33,0.38,0.41
+Deer_Park_ISD_Grade 3 Reading,Deer_Park_ISD,Grade 3 Reading,At Masters Grade Level,2019,0.27,0.28,0.25,0.06,0.20,0.33,-,0.43,-,0.18,0.05,0.26,0.20,0.15,0.13
+Deer_Park_ISD_Grade 3 Reading,Deer_Park_ISD,Grade 3 Reading,At Masters Grade Level,2018,0.25,0.25,0.24,0.04,0.20,0.33,-,0.60,-,0.29,0.08,0.26,0.18,0.16,0.18
+Deer_Park_ISD_Grade 3 Mathematics,Deer_Park_ISD,Grade 3 Mathematics,At Approaches Grade Level or Above,2019,0.79,0.79,0.82,0.67,0.81,0.85,-,0.86,-,0.91,0.46,0.83,0.79,0.76,0.80
+Deer_Park_ISD_Grade 3 Mathematics,Deer_Park_ISD,Grade 3 Mathematics,At Approaches Grade Level or Above,2018,0.78,0.79,0.84,0.67,0.82,0.89,-,1.00,-,0.92,0.64,0.86,0.80,0.81,0.85
+Deer_Park_ISD_Grade 3 Mathematics,Deer_Park_ISD,Grade 3 Mathematics,At Meets Grade Level or Above,2019,0.49,0.49,0.49,0.22,0.44,0.58,-,0.86,-,0.41,0.24,0.52,0.39,0.38,0.42
+Deer_Park_ISD_Grade 3 Mathematics,Deer_Park_ISD,Grade 3 Mathematics,At Meets Grade Level or Above,2018,0.47,0.48,0.48,0.33,0.44,0.58,-,0.80,-,0.29,0.38,0.51,0.40,0.40,0.41
+Deer_Park_ISD_Grade 3 Mathematics,Deer_Park_ISD,Grade 3 Mathematics,At Masters Grade Level,2019,0.25,0.25,0.22,0.06,0.17,0.29,-,0.57,-,0.18,0.05,0.24,0.13,0.12,0.15
+Deer_Park_ISD_Grade 3 Mathematics,Deer_Park_ISD,Grade 3 Mathematics,At Masters Grade Level,2018,0.23,0.24,0.23,0.08,0.20,0.28,-,0.60,-,0.21,0.11,0.25,0.13,0.17,0.14
+Deer_Park_ISD_Grade 4 Reading,Deer_Park_ISD,Grade 4 Reading,At Approaches Grade Level or Above,2019,0.75,0.75,0.80,0.62,0.75,0.88,*,1.00,-,0.78,0.50,0.82,0.74,0.73,0.66
+Deer_Park_ISD_Grade 4 Reading,Deer_Park_ISD,Grade 4 Reading,At Approaches Grade Level or Above,2018,0.73,0.73,0.81,0.86,0.74,0.91,-,1.00,-,0.90,0.51,0.81,0.80,0.73,0.62
+Deer_Park_ISD_Grade 4 Reading,Deer_Park_ISD,Grade 4 Reading,At Meets Grade Level or Above,2019,0.44,0.45,0.45,0.33,0.37,0.61,*,0.67,-,0.48,0.23,0.49,0.36,0.33,0.26
+Deer_Park_ISD_Grade 4 Reading,Deer_Park_ISD,Grade 4 Reading,At Meets Grade Level or Above,2018,0.46,0.46,0.51,0.43,0.42,0.63,-,1.00,-,0.48,0.32,0.51,0.50,0.41,0.31
+Deer_Park_ISD_Grade 4 Reading,Deer_Park_ISD,Grade 4 Reading,At Masters Grade Level,2019,0.22,0.23,0.22,0.14,0.16,0.32,*,0.33,-,0.26,0.04,0.24,0.15,0.13,0.07
+Deer_Park_ISD_Grade 4 Reading,Deer_Park_ISD,Grade 4 Reading,At Masters Grade Level,2018,0.24,0.25,0.22,0.14,0.18,0.29,-,0.40,-,0.14,0.11,0.23,0.20,0.15,0.11
+Deer_Park_ISD_Grade 4 Mathematics,Deer_Park_ISD,Grade 4 Mathematics,At Approaches Grade Level or Above,2019,0.75,0.76,0.83,0.67,0.80,0.89,*,1.00,-,0.91,0.57,0.86,0.74,0.76,0.81
+Deer_Park_ISD_Grade 4 Mathematics,Deer_Park_ISD,Grade 4 Mathematics,At Approaches Grade Level or Above,2018,0.78,0.80,0.86,0.71,0.82,0.93,-,1.00,-,0.96,0.59,0.88,0.82,0.80,0.81
+Deer_Park_ISD_Grade 4 Mathematics,Deer_Park_ISD,Grade 4 Mathematics,At Meets Grade Level or Above,2019,0.48,0.49,0.54,0.29,0.48,0.64,*,1.00,-,0.64,0.26,0.57,0.46,0.44,0.43
+Deer_Park_ISD_Grade 4 Mathematics,Deer_Park_ISD,Grade 4 Mathematics,At Meets Grade Level or Above,2018,0.49,0.51,0.59,0.29,0.53,0.71,-,1.00,-,0.48,0.35,0.62,0.52,0.50,0.50
+Deer_Park_ISD_Grade 4 Mathematics,Deer_Park_ISD,Grade 4 Mathematics,At Masters Grade Level,2019,0.28,0.30,0.33,0.24,0.26,0.44,*,0.50,-,0.27,0.16,0.36,0.25,0.23,0.19
+Deer_Park_ISD_Grade 4 Mathematics,Deer_Park_ISD,Grade 4 Mathematics,At Masters Grade Level,2018,0.27,0.29,0.34,0.13,0.29,0.41,-,1.00,-,0.35,0.18,0.35,0.30,0.23,0.26
+Deer_Park_ISD_Grade 5 Reading+,Deer_Park_ISD,Grade 5 Reading+,At Approaches Grade Level or Above,2019,0.86,0.86,0.92,0.88,0.89,0.96,-,1.00,-,1.00,0.67,0.93,0.89,0.87,0.84
+Deer_Park_ISD_Grade 5 Reading+,Deer_Park_ISD,Grade 5 Reading+,At Approaches Grade Level or Above,2018,0.84,0.83,0.88,0.81,0.85,0.93,-,0.71,-,0.90,0.53,0.88,0.87,0.83,0.78
+Deer_Park_ISD_Grade 5 Reading+,Deer_Park_ISD,Grade 5 Reading+,At Meets Grade Level or Above,2019,0.54,0.54,0.57,0.38,0.50,0.68,-,0.86,-,0.67,0.28,0.59,0.51,0.47,0.44
+Deer_Park_ISD_Grade 5 Reading+,Deer_Park_ISD,Grade 5 Reading+,At Meets Grade Level or Above,2018,0.54,0.54,0.54,0.38,0.48,0.63,-,0.57,-,0.67,0.22,0.56,0.49,0.44,0.41
+Deer_Park_ISD_Grade 5 Reading+,Deer_Park_ISD,Grade 5 Reading+,At Masters Grade Level,2019,0.29,0.30,0.28,0.17,0.24,0.35,-,0.57,-,0.33,0.13,0.28,0.28,0.21,0.14
+Deer_Park_ISD_Grade 5 Reading+,Deer_Park_ISD,Grade 5 Reading+,At Masters Grade Level,2018,0.26,0.27,0.23,0.24,0.18,0.27,-,0.43,-,0.33,0.05,0.23,0.20,0.14,0.17
+Deer_Park_ISD_Grade 5 Mathematics+,Deer_Park_ISD,Grade 5 Mathematics+,At Approaches Grade Level or Above,2019,0.90,0.89,0.96,0.95,0.95,0.98,-,*,-,1.00,0.82,0.96,0.97,0.95,0.95
+Deer_Park_ISD_Grade 5 Mathematics+,Deer_Park_ISD,Grade 5 Mathematics+,At Approaches Grade Level or Above,2018,0.91,0.90,0.96,0.95,0.95,0.98,-,*,-,0.94,0.85,0.96,0.96,0.94,0.95
+Deer_Park_ISD_Grade 5 Mathematics+,Deer_Park_ISD,Grade 5 Mathematics+,At Meets Grade Level or Above,2019,0.58,0.59,0.56,0.41,0.48,0.70,-,*,-,0.73,0.30,0.58,0.52,0.48,0.40
+Deer_Park_ISD_Grade 5 Mathematics+,Deer_Park_ISD,Grade 5 Mathematics+,At Meets Grade Level or Above,2018,0.58,0.58,0.63,0.35,0.61,0.67,-,*,-,0.69,0.37,0.64,0.59,0.57,0.64
+Deer_Park_ISD_Grade 5 Mathematics+,Deer_Park_ISD,Grade 5 Mathematics+,At Masters Grade Level,2019,0.36,0.38,0.31,0.14,0.26,0.41,-,*,-,0.33,0.17,0.32,0.30,0.25,0.17
+Deer_Park_ISD_Grade 5 Mathematics+,Deer_Park_ISD,Grade 5 Mathematics+,At Masters Grade Level,2018,0.30,0.31,0.24,0.15,0.21,0.29,-,*,-,0.38,0.13,0.24,0.24,0.22,0.21
+Deer_Park_ISD_Grade 5 Science,Deer_Park_ISD,Grade 5 Science,At Approaches Grade Level or Above,2019,0.75,0.75,0.86,0.79,0.81,0.95,-,1.00,-,1.00,0.62,0.87,0.84,0.79,0.74
+Deer_Park_ISD_Grade 5 Science,Deer_Park_ISD,Grade 5 Science,At Approaches Grade Level or Above,2018,0.76,0.76,0.86,0.86,0.81,0.94,-,1.00,-,0.90,0.55,0.87,0.86,0.80,0.72
+Deer_Park_ISD_Grade 5 Science,Deer_Park_ISD,Grade 5 Science,At Meets Grade Level or Above,2019,0.49,0.50,0.62,0.46,0.54,0.77,-,1.00,-,0.81,0.35,0.64,0.58,0.52,0.43
+Deer_Park_ISD_Grade 5 Science,Deer_Park_ISD,Grade 5 Science,At Meets Grade Level or Above,2018,0.41,0.42,0.54,0.23,0.48,0.63,-,0.57,-,0.76,0.28,0.55,0.52,0.42,0.38
+Deer_Park_ISD_Grade 5 Science,Deer_Park_ISD,Grade 5 Science,At Masters Grade Level,2019,0.24,0.25,0.33,0.21,0.25,0.46,-,0.86,-,0.43,0.20,0.35,0.28,0.23,0.19
+Deer_Park_ISD_Grade 5 Science,Deer_Park_ISD,Grade 5 Science,At Masters Grade Level,2018,0.17,0.18,0.23,0.09,0.15,0.34,-,0.29,-,0.33,0.11,0.23,0.21,0.14,0.11
+Deer_Park_ISD_Grade 6 Reading,Deer_Park_ISD,Grade 6 Reading,At Approaches Grade Level or Above,2019,0.68,0.69,0.71,0.60,0.67,0.78,-,0.88,-,0.75,0.31,0.72,0.69,0.61,0.63
+Deer_Park_ISD_Grade 6 Reading,Deer_Park_ISD,Grade 6 Reading,At Approaches Grade Level or Above,2018,0.69,0.71,0.74,0.71,0.70,0.78,*,1.00,-,0.81,0.42,0.77,0.67,0.67,0.71
+Deer_Park_ISD_Grade 6 Reading,Deer_Park_ISD,Grade 6 Reading,At Meets Grade Level or Above,2019,0.37,0.38,0.38,0.32,0.32,0.45,-,0.63,-,0.50,0.13,0.38,0.36,0.26,0.26
+Deer_Park_ISD_Grade 6 Reading,Deer_Park_ISD,Grade 6 Reading,At Meets Grade Level or Above,2018,0.39,0.41,0.40,0.29,0.34,0.48,*,0.82,-,0.33,0.16,0.44,0.31,0.30,0.33
+Deer_Park_ISD_Grade 6 Reading,Deer_Park_ISD,Grade 6 Reading,At Masters Grade Level,2019,0.18,0.19,0.16,0.12,0.13,0.21,-,0.00,-,0.17,0.01,0.17,0.14,0.10,0.08
+Deer_Park_ISD_Grade 6 Reading,Deer_Park_ISD,Grade 6 Reading,At Masters Grade Level,2018,0.19,0.20,0.20,0.10,0.14,0.27,*,0.45,-,0.24,0.03,0.22,0.13,0.12,0.12
+Deer_Park_ISD_Grade 6 Mathematics,Deer_Park_ISD,Grade 6 Mathematics,At Approaches Grade Level or Above,2019,0.81,0.81,0.86,0.67,0.84,0.90,-,0.89,-,0.88,0.55,0.87,0.84,0.82,0.84
+Deer_Park_ISD_Grade 6 Mathematics,Deer_Park_ISD,Grade 6 Mathematics,At Approaches Grade Level or Above,2018,0.77,0.78,0.86,0.76,0.85,0.89,*,0.83,-,0.78,0.65,0.88,0.84,0.82,0.89
+Deer_Park_ISD_Grade 6 Mathematics,Deer_Park_ISD,Grade 6 Mathematics,At Meets Grade Level or Above,2019,0.47,0.48,0.54,0.19,0.49,0.62,-,0.89,-,0.76,0.30,0.55,0.51,0.44,0.47
+Deer_Park_ISD_Grade 6 Mathematics,Deer_Park_ISD,Grade 6 Mathematics,At Meets Grade Level or Above,2018,0.44,0.46,0.53,0.43,0.49,0.60,*,0.83,-,0.56,0.24,0.56,0.46,0.44,0.49
+Deer_Park_ISD_Grade 6 Mathematics,Deer_Park_ISD,Grade 6 Mathematics,At Masters Grade Level,2019,0.21,0.22,0.22,0.10,0.19,0.27,-,0.67,-,0.36,0.12,0.24,0.19,0.14,0.13
+Deer_Park_ISD_Grade 6 Mathematics,Deer_Park_ISD,Grade 6 Mathematics,At Masters Grade Level,2018,0.18,0.20,0.19,0.14,0.16,0.23,*,0.33,-,0.28,0.06,0.21,0.14,0.14,0.12
+Deer_Park_ISD_Grade 7 Reading,Deer_Park_ISD,Grade 7 Reading,At Approaches Grade Level or Above,2019,0.76,0.77,0.80,0.75,0.76,0.84,*,1.00,-,0.90,0.38,0.82,0.75,0.73,0.71
+Deer_Park_ISD_Grade 7 Reading,Deer_Park_ISD,Grade 7 Reading,At Approaches Grade Level or Above,2018,0.74,0.76,0.79,0.56,0.74,0.88,*,1.00,*,0.94,0.46,0.80,0.74,0.70,0.72
+Deer_Park_ISD_Grade 7 Reading,Deer_Park_ISD,Grade 7 Reading,At Meets Grade Level or Above,2019,0.49,0.51,0.49,0.36,0.42,0.60,*,0.64,-,0.60,0.15,0.51,0.42,0.40,0.34
+Deer_Park_ISD_Grade 7 Reading,Deer_Park_ISD,Grade 7 Reading,At Meets Grade Level or Above,2018,0.48,0.50,0.52,0.24,0.47,0.63,*,0.78,*,0.75,0.30,0.55,0.43,0.40,0.44
+Deer_Park_ISD_Grade 7 Reading,Deer_Park_ISD,Grade 7 Reading,At Masters Grade Level,2019,0.29,0.31,0.28,0.11,0.22,0.37,*,0.43,-,0.40,0.07,0.30,0.24,0.20,0.17
+Deer_Park_ISD_Grade 7 Reading,Deer_Park_ISD,Grade 7 Reading,At Masters Grade Level,2018,0.29,0.30,0.30,0.16,0.23,0.41,*,0.67,*,0.44,0.15,0.33,0.22,0.20,0.20
+Deer_Park_ISD_Grade 7 Mathematics,Deer_Park_ISD,Grade 7 Mathematics,At Approaches Grade Level or Above,2019,0.75,0.77,0.86,0.75,0.84,0.90,*,0.83,-,0.88,0.53,0.87,0.85,0.80,0.81
+Deer_Park_ISD_Grade 7 Mathematics,Deer_Park_ISD,Grade 7 Mathematics,At Approaches Grade Level or Above,2018,0.72,0.75,0.83,0.71,0.80,0.89,-,1.00,*,0.81,0.55,0.84,0.80,0.75,0.75
+Deer_Park_ISD_Grade 7 Mathematics,Deer_Park_ISD,Grade 7 Mathematics,At Meets Grade Level or Above,2019,0.43,0.46,0.56,0.32,0.52,0.63,*,0.50,-,0.50,0.22,0.58,0.48,0.47,0.51
+Deer_Park_ISD_Grade 7 Mathematics,Deer_Park_ISD,Grade 7 Mathematics,At Meets Grade Level or Above,2018,0.40,0.43,0.51,0.32,0.47,0.60,-,1.00,*,0.50,0.25,0.54,0.45,0.42,0.43
+Deer_Park_ISD_Grade 7 Mathematics,Deer_Park_ISD,Grade 7 Mathematics,At Masters Grade Level,2019,0.17,0.18,0.20,0.11,0.18,0.24,*,0.50,-,0.38,0.05,0.21,0.19,0.15,0.19
+Deer_Park_ISD_Grade 7 Mathematics,Deer_Park_ISD,Grade 7 Mathematics,At Masters Grade Level,2018,0.18,0.20,0.23,0.14,0.19,0.28,-,0.71,*,0.31,0.06,0.24,0.21,0.18,0.21
