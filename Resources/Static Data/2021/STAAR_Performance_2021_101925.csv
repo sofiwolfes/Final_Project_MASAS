@@ -1,0 +1,43 @@
+﻿Primary_Key,School_Name,,,School_Year,YoY_State,State,YoY_Region_04,Region_04,YoY_District,District,YoY_African_American,African_American,YoY_Hispanic,Hispanic,YOY_White,White,YoY_Econ_Disadv,Econ_Disadv,YoY_ELL,ELL
+Huffman_ISD_Grade 3 Reading,Huffman_ISD,Grade 3 Reading,At Approaches Grade Level or Above,2021,-0.09,67%,-8%,68%,-12%,64%,#VALUE!,*,-0.09,53%,-13%,68%,-11%,56%,0%,54%
+Huffman_ISD_Grade 3 Reading,Huffman_ISD,Grade 3 Reading,At Approaches Grade Level or Above,2019,na,76%,na,76%,na,76%,na,67%,na,62%,na,81%,na,67%,na,54%
+Huffman_ISD_Grade 3 Reading,Huffman_ISD,Grade 3 Reading,At Meets Grade Level or Above,2021,-0.06,39%,-7%,39%,-8%,32%,#VALUE!,*,-0.13,16%,-7%,38%,-7%,18%,-14%,17%
+Huffman_ISD_Grade 3 Reading,Huffman_ISD,Grade 3 Reading,At Meets Grade Level or Above,2019,na,45%,na,46%,na,40%,na,17%,na,29%,na,45%,na,25%,na,31%
+Huffman_ISD_Grade 3 Reading,Huffman_ISD,Grade 3 Reading,At Masters Grade Level,2021,-0.08,19%,-8%,20%,-14%,11%,#VALUE!,*,-0.05,8%,-18%,13%,-7%,6%,1%,13%
+Huffman_ISD_Grade 3 Reading,Huffman_ISD,Grade 3 Reading,At Masters Grade Level,2019,na,27%,na,28%,na,25%,na,0%,na,13%,na,31%,na,13%,na,12%
+Huffman_ISD_Grade 3 Mathematics,Huffman_ISD,Grade 3 Mathematics,At Approaches Grade Level or Above,2021,-0.17,62%,-17%,62%,-2%,64%,#VALUE!,*,-0.05,54%,-2%,69%,0%,52%,0%,42%
+Huffman_ISD_Grade 3 Mathematics,Huffman_ISD,Grade 3 Mathematics,At Approaches Grade Level or Above,2019,na,79%,na,79%,na,66%,na,17%,na,59%,na,71%,na,52%,na,42%
+Huffman_ISD_Grade 3 Mathematics,Huffman_ISD,Grade 3 Mathematics,At Meets Grade Level or Above,2021,-0.18,31%,-18%,31%,-9%,25%,#VALUE!,*,-0.08,14%,-10%,29%,-8%,11%,-2%,21%
+Huffman_ISD_Grade 3 Mathematics,Huffman_ISD,Grade 3 Mathematics,At Meets Grade Level or Above,2019,na,49%,na,49%,na,34%,na,17%,na,22%,na,39%,na,19%,na,23%
+Huffman_ISD_Grade 3 Mathematics,Huffman_ISD,Grade 3 Mathematics,At Masters Grade Level,2021,-0.11,14%,-10%,15%,-6%,9%,#VALUE!,*,0.02,8%,-8%,10%,-2%,3%,5%,13%
+Huffman_ISD_Grade 3 Mathematics,Huffman_ISD,Grade 3 Mathematics,At Masters Grade Level,2019,na,25%,na,25%,na,15%,na,17%,na,6%,na,18%,na,5%,na,8%
+Huffman_ISD_Grade 4 Reading,Huffman_ISD,Grade 4 Reading,At Approaches Grade Level or Above,2021,-0.12,63%,-12%,63%,-18%,57%,-22%,67%,-0.3,51%,-15%,58%,-26%,41%,-36%,32%
+Huffman_ISD_Grade 4 Reading,Huffman_ISD,Grade 4 Reading,At Approaches Grade Level or Above,2019,na,75%,na,75%,na,75%,na,89%,na,81%,na,73%,na,67%,na,68%
+Huffman_ISD_Grade 4 Reading,Huffman_ISD,Grade 4 Reading,At Meets Grade Level or Above,2021,-0.08,36%,-8%,37%,-8%,31%,-31%,25%,-0.12,23%,-5%,34%,-12%,18%,-5%,18%
+Huffman_ISD_Grade 4 Reading,Huffman_ISD,Grade 4 Reading,At Meets Grade Level or Above,2019,na,44%,na,45%,na,39%,na,56%,na,35%,na,39%,na,30%,na,23%
+Huffman_ISD_Grade 4 Reading,Huffman_ISD,Grade 4 Reading,At Masters Grade Level,2021,-0.05,17%,-5%,18%,-3%,15%,-36%,8%,-0.11,8%,2%,18%,-3%,8%,-1%,5%
+Huffman_ISD_Grade 4 Reading,Huffman_ISD,Grade 4 Reading,At Masters Grade Level,2019,na,22%,na,23%,na,18%,na,44%,na,19%,na,16%,na,11%,na,6%
+Huffman_ISD_Grade 4 Mathematics,Huffman_ISD,Grade 4 Mathematics,At Approaches Grade Level or Above,2021,-0.16,59%,-16%,60%,-17%,50%,-39%,50%,-0.13,48%,-16%,52%,-23%,37%,5%,50%
+Huffman_ISD_Grade 4 Mathematics,Huffman_ISD,Grade 4 Mathematics,At Approaches Grade Level or Above,2019,na,75%,na,76%,na,67%,na,89%,na,61%,na,68%,na,60%,na,45%
+Huffman_ISD_Grade 4 Mathematics,Huffman_ISD,Grade 4 Mathematics,At Meets Grade Level or Above,2021,-0.12,36%,-12%,37%,-14%,23%,-23%,33%,-0.22,17%,-12%,24%,-19%,14%,-9%,14%
+Huffman_ISD_Grade 4 Mathematics,Huffman_ISD,Grade 4 Mathematics,At Meets Grade Level or Above,2019,na,48%,na,49%,na,37%,na,56%,na,39%,na,36%,na,33%,na,23%
+Huffman_ISD_Grade 4 Mathematics,Huffman_ISD,Grade 4 Mathematics,At Masters Grade Level,2021,-0.07,21%,-8%,22%,-9%,13%,-48%,8%,-0.12,9%,-7%,14%,-15%,5%,-1%,9%
+Huffman_ISD_Grade 4 Mathematics,Huffman_ISD,Grade 4 Mathematics,At Masters Grade Level,2019,na,28%,na,30%,na,22%,na,56%,na,21%,na,21%,na,20%,na,10%
+Huffman_ISD_Grade 5 Reading+,Huffman_ISD,Grade 5 Reading+,At Approaches Grade Level or Above,2021,-0.13,73%,-13%,73%,-15%,70%,#VALUE!,*,-0.18,61%,-14%,74%,-18%,58%,-16%,59%
+Huffman_ISD_Grade 5 Reading+,Huffman_ISD,Grade 5 Reading+,At Approaches Grade Level or Above,2019,na,86%,na,86%,na,85%,na,*,na,79%,na,88%,na,76%,na,75%
+Huffman_ISD_Grade 5 Reading+,Huffman_ISD,Grade 5 Reading+,At Meets Grade Level or Above,2021,-0.08,46%,-7%,47%,-12%,39%,#VALUE!,*,-0.11,28%,-12%,45%,-4%,31%,4%,26%
+Huffman_ISD_Grade 5 Reading+,Huffman_ISD,Grade 5 Reading+,At Meets Grade Level or Above,2019,na,54%,na,54%,na,51%,na,*,na,39%,na,57%,na,35%,na,22%
+Huffman_ISD_Grade 5 Reading+,Huffman_ISD,Grade 5 Reading+,At Masters Grade Level,2021,0.01,30%,1%,31%,-3%,25%,#VALUE!,*,-0.07,14%,-2%,29%,5%,20%,2%,11%
+Huffman_ISD_Grade 5 Reading+,Huffman_ISD,Grade 5 Reading+,At Masters Grade Level,2019,na,29%,na,30%,na,28%,na,*,na,21%,na,31%,na,15%,na,9%
+Huffman_ISD_Grade 5 Mathematics+,Huffman_ISD,Grade 5 Mathematics+,At Approaches Grade Level or Above,2021,-0.2,70%,-19%,70%,-21%,68%,#VALUE!,*,-0.25,58%,-19%,73%,-26%,56%,-32%,52%
+Huffman_ISD_Grade 5 Mathematics+,Huffman_ISD,Grade 5 Mathematics+,At Approaches Grade Level or Above,2019,na,90%,na,89%,na,89%,na,*,na,83%,na,92%,na,82%,na,84%
+Huffman_ISD_Grade 5 Mathematics+,Huffman_ISD,Grade 5 Mathematics+,At Meets Grade Level or Above,2021,-0.14,44%,-14%,45%,-21%,37%,#VALUE!,*,-0.22,22%,-21%,43%,-19%,24%,-15%,26%
+Huffman_ISD_Grade 5 Mathematics+,Huffman_ISD,Grade 5 Mathematics+,At Meets Grade Level or Above,2019,na,58%,na,59%,na,58%,na,*,na,44%,na,64%,na,43%,na,41%
+Huffman_ISD_Grade 5 Mathematics+,Huffman_ISD,Grade 5 Mathematics+,At Masters Grade Level,2021,-0.11,25%,-12%,26%,-16%,16%,#VALUE!,*,-0.19,9%,-16%,18%,-5%,14%,-7%,15%
+Huffman_ISD_Grade 5 Mathematics+,Huffman_ISD,Grade 5 Mathematics+,At Masters Grade Level,2019,na,36%,na,38%,na,32%,na,*,na,28%,na,34%,na,19%,na,22%
+Huffman_ISD_Grade 5 Science,Huffman_ISD,Grade 5 Science,At Approaches Grade Level or Above,2021,-0.13,62%,-13%,62%,-17%,59%,#VALUE!,*,-0.14,54%,-19%,62%,-15%,47%,-15%,48%
+Huffman_ISD_Grade 5 Science,Huffman_ISD,Grade 5 Science,At Approaches Grade Level or Above,2019,na,75%,na,75%,na,76%,na,*,na,68%,na,81%,na,62%,na,63%
+Huffman_ISD_Grade 5 Science,Huffman_ISD,Grade 5 Science,At Meets Grade Level or Above,2021,-0.18,31%,-18%,32%,-17%,24%,#VALUE!,*,-0.21,9%,-17%,30%,-9%,13%,-15%,7%
+Huffman_ISD_Grade 5 Science,Huffman_ISD,Grade 5 Science,At Meets Grade Level or Above,2019,na,49%,na,50%,na,41%,na,*,na,30%,na,47%,na,22%,na,22%
+Huffman_ISD_Grade 5 Science,Huffman_ISD,Grade 5 Science,At Masters Grade Level,2021,-0.11,13%,-11%,14%,-5%,8%,#VALUE!,*,-0.07,3%,-3%,11%,0%,4%,-5%,4%
+Huffman_ISD_Grade 5 Science,Huffman_ISD,Grade 5 Science,At Masters Grade Level,2019,na,24%,na,25%,na,13%,na,*,na,10%,na,14%,na,4%,na,9%

@@ -1,0 +1,43 @@
+﻿Primary_Key,School_Name,,,School_Year,YoY_State,State,YoY_Region_04,Region_04,YoY_District,District,YoY_African_American,African_American,YoY_Hispanic,Hispanic,YOY_White,White,YoY_Econ_Disadv,Econ_Disadv,YoY_ELL,ELL
+Sheldon_ISD_Grade 3 Reading,Sheldon_ISD,Grade 3 Reading,At Approaches Grade Level or Above,2021,-0.09,67%,-8%,68%,-13%,53%,-7%,50%,-16%,53%,-1%,69%,-16%,50%,-18%,51%
+Sheldon_ISD_Grade 3 Reading,Sheldon_ISD,Grade 3 Reading,At Approaches Grade Level or Above,2019,na,76%,na,76%,na,66%,na,57%,na,69%,na,70%,na,66%,na,69%
+Sheldon_ISD_Grade 3 Reading,Sheldon_ISD,Grade 3 Reading,At Meets Grade Level or Above,2021,-0.06,39%,-7%,39%,-11%,22%,-7%,17%,-13%,22%,4%,46%,-10%,21%,-17%,17%
+Sheldon_ISD_Grade 3 Reading,Sheldon_ISD,Grade 3 Reading,At Meets Grade Level or Above,2019,na,45%,na,46%,na,33%,na,24%,na,35%,na,42%,na,31%,na,34%
+Sheldon_ISD_Grade 3 Reading,Sheldon_ISD,Grade 3 Reading,At Masters Grade Level,2021,-0.08,19%,-8%,20%,-12%,6%,-6%,7%,-15%,5%,-2%,19%,-12%,5%,-15%,3%
+Sheldon_ISD_Grade 3 Reading,Sheldon_ISD,Grade 3 Reading,At Masters Grade Level,2019,na,27%,na,28%,na,18%,na,13%,na,20%,na,21%,na,17%,na,18%
+Sheldon_ISD_Grade 3 Mathematics,Sheldon_ISD,Grade 3 Mathematics,At Approaches Grade Level or Above,2021,-0.17,62%,-17%,62%,-24%,52%,-26%,40%,-25%,54%,-15%,58%,-25%,51%,-24%,55%
+Sheldon_ISD_Grade 3 Mathematics,Sheldon_ISD,Grade 3 Mathematics,At Approaches Grade Level or Above,2019,na,79%,na,79%,na,76%,na,66%,na,79%,na,73%,na,76%,na,79%
+Sheldon_ISD_Grade 3 Mathematics,Sheldon_ISD,Grade 3 Mathematics,At Meets Grade Level or Above,2021,-0.18,31%,-18%,31%,-18%,20%,-13%,11%,-20%,21%,-31%,27%,-17%,19%,-23%,19%
+Sheldon_ISD_Grade 3 Mathematics,Sheldon_ISD,Grade 3 Mathematics,At Meets Grade Level or Above,2019,na,49%,na,49%,na,38%,na,24%,na,41%,na,58%,na,36%,na,42%
+Sheldon_ISD_Grade 3 Mathematics,Sheldon_ISD,Grade 3 Mathematics,At Masters Grade Level,2021,-0.11,14%,-10%,15%,-10%,8%,-4%,5%,-11%,8%,-14%,19%,-10%,7%,-13%,7%
+Sheldon_ISD_Grade 3 Mathematics,Sheldon_ISD,Grade 3 Mathematics,At Masters Grade Level,2019,na,25%,na,25%,na,18%,na,9%,na,19%,na,33%,na,17%,na,20%
+Sheldon_ISD_Grade 4 Reading,Sheldon_ISD,Grade 4 Reading,At Approaches Grade Level or Above,2021,-0.12,63%,-12%,63%,-20%,45%,-23%,32%,-19%,49%,-37%,26%,-22%,43%,-21%,44%
+Sheldon_ISD_Grade 4 Reading,Sheldon_ISD,Grade 4 Reading,At Approaches Grade Level or Above,2019,na,75%,na,75%,na,65%,na,55%,na,68%,na,63%,na,65%,na,65%
+Sheldon_ISD_Grade 4 Reading,Sheldon_ISD,Grade 4 Reading,At Meets Grade Level or Above,2021,-0.08,36%,-8%,37%,-10%,22%,-7%,14%,-12%,24%,2%,21%,-11%,20%,-9%,21%
+Sheldon_ISD_Grade 4 Reading,Sheldon_ISD,Grade 4 Reading,At Meets Grade Level or Above,2019,na,44%,na,45%,na,32%,na,21%,na,36%,na,19%,na,31%,na,30%
+Sheldon_ISD_Grade 4 Reading,Sheldon_ISD,Grade 4 Reading,At Masters Grade Level,2021,-0.05,17%,-5%,18%,-7%,8%,-4%,2%,-8%,10%,4%,11%,-7%,7%,-8%,8%
+Sheldon_ISD_Grade 4 Reading,Sheldon_ISD,Grade 4 Reading,At Masters Grade Level,2019,na,22%,na,23%,na,15%,na,6%,na,18%,na,7%,na,14%,na,16%
+Sheldon_ISD_Grade 4 Mathematics,Sheldon_ISD,Grade 4 Mathematics,At Approaches Grade Level or Above,2021,-0.16,59%,-16%,60%,-19%,46%,-21%,31%,-19%,50%,-26%,37%,-20%,45%,-17%,49%
+Sheldon_ISD_Grade 4 Mathematics,Sheldon_ISD,Grade 4 Mathematics,At Approaches Grade Level or Above,2019,na,75%,na,76%,na,65%,na,52%,na,69%,na,63%,na,65%,na,66%
+Sheldon_ISD_Grade 4 Mathematics,Sheldon_ISD,Grade 4 Mathematics,At Meets Grade Level or Above,2021,-0.12,36%,-12%,37%,-16%,24%,-9%,12%,-17%,27%,-16%,21%,-17%,22%,-17%,25%
+Sheldon_ISD_Grade 4 Mathematics,Sheldon_ISD,Grade 4 Mathematics,At Meets Grade Level or Above,2019,na,48%,na,49%,na,40%,na,21%,na,44%,na,37%,na,39%,na,42%
+Sheldon_ISD_Grade 4 Mathematics,Sheldon_ISD,Grade 4 Mathematics,At Masters Grade Level,2021,-0.07,21%,-8%,22%,-9%,13%,-6%,6%,-10%,15%,-3%,16%,-10%,11%,-11%,13%
+Sheldon_ISD_Grade 4 Mathematics,Sheldon_ISD,Grade 4 Mathematics,At Masters Grade Level,2019,na,28%,na,30%,na,22%,na,12%,na,25%,na,19%,na,21%,na,24%
+Sheldon_ISD_Grade 5 Reading+,Sheldon_ISD,Grade 5 Reading+,At Approaches Grade Level or Above,2021,-0.13,73%,-13%,73%,-22%,57%,-26%,46%,-20%,61%,-9%,71%,-23%,56%,-21%,60%
+Sheldon_ISD_Grade 5 Reading+,Sheldon_ISD,Grade 5 Reading+,At Approaches Grade Level or Above,2019,na,86%,na,86%,na,79%,na,72%,na,81%,na,80%,na,79%,na,81%
+Sheldon_ISD_Grade 5 Reading+,Sheldon_ISD,Grade 5 Reading+,At Meets Grade Level or Above,2021,-0.08,46%,-7%,47%,-14%,30%,-12%,23%,-13%,32%,-23%,29%,-14%,28%,-12%,30%
+Sheldon_ISD_Grade 5 Reading+,Sheldon_ISD,Grade 5 Reading+,At Meets Grade Level or Above,2019,na,54%,na,54%,na,44%,na,35%,na,45%,na,52%,na,42%,na,42%
+Sheldon_ISD_Grade 5 Reading+,Sheldon_ISD,Grade 5 Reading+,At Masters Grade Level,2021,0.01,30%,1%,31%,-4%,17%,1%,13%,-5%,19%,-5%,25%,-5%,15%,-3%,17%
+Sheldon_ISD_Grade 5 Reading+,Sheldon_ISD,Grade 5 Reading+,At Masters Grade Level,2019,na,29%,na,30%,na,21%,na,12%,na,24%,na,30%,na,20%,na,20%
+Sheldon_ISD_Grade 5 Mathematics+,Sheldon_ISD,Grade 5 Mathematics+,At Approaches Grade Level or Above,2021,-0.2,70%,-19%,70%,-27%,57%,-22%,48%,-27%,60%,-16%,71%,-28%,56%,-30%,60%
+Sheldon_ISD_Grade 5 Mathematics+,Sheldon_ISD,Grade 5 Mathematics+,At Approaches Grade Level or Above,2019,na,90%,na,89%,na,84%,na,70%,na,87%,na,87%,na,84%,na,90%
+Sheldon_ISD_Grade 5 Mathematics+,Sheldon_ISD,Grade 5 Mathematics+,At Meets Grade Level or Above,2021,-0.14,44%,-14%,45%,-14%,31%,-4%,19%,-17%,34%,3%,42%,-16%,29%,-18%,34%
+Sheldon_ISD_Grade 5 Mathematics+,Sheldon_ISD,Grade 5 Mathematics+,At Meets Grade Level or Above,2019,na,58%,na,59%,na,45%,na,23%,na,51%,na,39%,na,45%,na,52%
+Sheldon_ISD_Grade 5 Mathematics+,Sheldon_ISD,Grade 5 Mathematics+,At Masters Grade Level,2021,-0.11,25%,-12%,26%,-12%,14%,-3%,8%,-14%,16%,-9%,8%,-12%,13%,-14%,18%
+Sheldon_ISD_Grade 5 Mathematics+,Sheldon_ISD,Grade 5 Mathematics+,At Masters Grade Level,2019,na,36%,na,38%,na,26%,na,11%,na,30%,na,17%,na,25%,na,32%
+Sheldon_ISD_Grade 5 Science,Sheldon_ISD,Grade 5 Science,At Approaches Grade Level or Above,2021,-0.13,62%,-13%,62%,-18%,49%,-13%,40%,-18%,52%,-7%,71%,-18%,47%,-21%,48%
+Sheldon_ISD_Grade 5 Science,Sheldon_ISD,Grade 5 Science,At Approaches Grade Level or Above,2019,na,75%,na,75%,na,67%,na,53%,na,70%,na,78%,na,65%,na,69%
+Sheldon_ISD_Grade 5 Science,Sheldon_ISD,Grade 5 Science,At Meets Grade Level or Above,2021,-0.18,31%,-18%,32%,-20%,16%,-10%,13%,-22%,17%,-30%,13%,-20%,15%,-22%,17%
+Sheldon_ISD_Grade 5 Science,Sheldon_ISD,Grade 5 Science,At Meets Grade Level or Above,2019,na,49%,na,50%,na,36%,na,23%,na,39%,na,43%,na,35%,na,39%
+Sheldon_ISD_Grade 5 Science,Sheldon_ISD,Grade 5 Science,At Masters Grade Level,2021,-0.11,13%,-11%,14%,-11%,4%,-4%,4%,-13%,4%,-20%,0%,-11%,4%,-12%,5%
+Sheldon_ISD_Grade 5 Science,Sheldon_ISD,Grade 5 Science,At Masters Grade Level,2019,na,24%,na,25%,na,15%,na,8%,na,17%,na,20%,na,15%,na,17%
