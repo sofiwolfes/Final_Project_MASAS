@@ -1,0 +1,43 @@
+﻿Primary_Key,School_Name,,,School_Year,YoY_State,State,YoY_Region_04,Region_04,YoY_District,District,YoY_African_American,African_American,YoY_Hispanic,Hispanic,YOY_White,White,YoY_Econ_Disadv,Econ_Disadv,YoY_ELL,ELL
+Spring_ISD_Grade 3 Reading,Spring_ISD,Grade 3 Reading,At Approaches Grade Level or Above,2021,-0.09,67%,-8%,68%,-10%,56%,-6%,51%,-14%,57%,-2%,68%,-11%,54%,-16%,56%
+Spring_ISD_Grade 3 Reading,Spring_ISD,Grade 3 Reading,At Approaches Grade Level or Above,2019,na,76%,na,76%,na,66%,na,57%,na,71%,na,70%,na,65%,na,72%
+Spring_ISD_Grade 3 Reading,Spring_ISD,Grade 3 Reading,At Meets Grade Level or Above,2021,-0.06,39%,-7%,39%,-7%,28%,-5%,23%,-10%,28%,1%,41%,-7%,26%,-12%,29%
+Spring_ISD_Grade 3 Reading,Spring_ISD,Grade 3 Reading,At Meets Grade Level or Above,2019,na,45%,na,46%,na,35%,na,28%,na,38%,na,40%,na,33%,na,41%
+Spring_ISD_Grade 3 Reading,Spring_ISD,Grade 3 Reading,At Masters Grade Level,2021,-0.08,19%,-8%,20%,-7%,12%,-5%,9%,-9%,13%,-10%,17%,-6%,12%,-7%,16%
+Spring_ISD_Grade 3 Reading,Spring_ISD,Grade 3 Reading,At Masters Grade Level,2019,na,27%,na,28%,na,19%,na,14%,na,22%,na,27%,na,18%,na,23%
+Spring_ISD_Grade 3 Mathematics,Spring_ISD,Grade 3 Mathematics,At Approaches Grade Level or Above,2021,-0.17,62%,-17%,62%,-17%,51%,-18%,40%,-20%,54%,-9%,69%,-19%,49%,-18%,57%
+Spring_ISD_Grade 3 Mathematics,Spring_ISD,Grade 3 Mathematics,At Approaches Grade Level or Above,2019,na,79%,na,79%,na,68%,na,58%,na,74%,na,78%,na,68%,na,75%
+Spring_ISD_Grade 3 Mathematics,Spring_ISD,Grade 3 Mathematics,At Meets Grade Level or Above,2021,-0.18,31%,-18%,31%,-15%,19%,-14%,12%,-16%,20%,-20%,28%,-15%,18%,-15%,24%
+Spring_ISD_Grade 3 Mathematics,Spring_ISD,Grade 3 Mathematics,At Meets Grade Level or Above,2019,na,49%,na,49%,na,34%,na,26%,na,36%,na,48%,na,33%,na,39%
+Spring_ISD_Grade 3 Mathematics,Spring_ISD,Grade 3 Mathematics,At Masters Grade Level,2021,-0.11,14%,-10%,15%,-6%,8%,-5%,4%,-7%,9%,-7%,14%,-6%,7%,-8%,10%
+Spring_ISD_Grade 3 Mathematics,Spring_ISD,Grade 3 Mathematics,At Masters Grade Level,2019,na,25%,na,25%,na,14%,na,9%,na,16%,na,21%,na,13%,na,18%
+Spring_ISD_Grade 4 Reading,Spring_ISD,Grade 4 Reading,At Approaches Grade Level or Above,2021,-0.12,63%,-12%,63%,-15%,48%,-15%,38%,-15%,53%,-11%,63%,-15%,46%,-15%,53%
+Spring_ISD_Grade 4 Reading,Spring_ISD,Grade 4 Reading,At Approaches Grade Level or Above,2019,na,75%,na,75%,na,63%,na,53%,na,68%,na,74%,na,61%,na,68%
+Spring_ISD_Grade 4 Reading,Spring_ISD,Grade 4 Reading,At Meets Grade Level or Above,2021,-0.08,36%,-8%,37%,-8%,25%,-7%,18%,-8%,27%,0%,39%,-8%,23%,-11%,27%
+Spring_ISD_Grade 4 Reading,Spring_ISD,Grade 4 Reading,At Meets Grade Level or Above,2019,na,44%,na,45%,na,33%,na,25%,na,35%,na,39%,na,31%,na,38%
+Spring_ISD_Grade 4 Reading,Spring_ISD,Grade 4 Reading,At Masters Grade Level,2021,-0.05,17%,-5%,18%,-3%,11%,-3%,6%,-3%,12%,0%,17%,-3%,9%,-4%,12%
+Spring_ISD_Grade 4 Reading,Spring_ISD,Grade 4 Reading,At Masters Grade Level,2019,na,22%,na,23%,na,14%,na,9%,na,15%,na,17%,na,12%,na,16%
+Spring_ISD_Grade 4 Mathematics,Spring_ISD,Grade 4 Mathematics,At Approaches Grade Level or Above,2021,-0.16,59%,-16%,60%,-22%,43%,-26%,29%,-21%,49%,-17%,61%,-24%,40%,-21%,50%
+Spring_ISD_Grade 4 Mathematics,Spring_ISD,Grade 4 Mathematics,At Approaches Grade Level or Above,2019,na,75%,na,76%,na,65%,na,55%,na,70%,na,78%,na,64%,na,71%
+Spring_ISD_Grade 4 Mathematics,Spring_ISD,Grade 4 Mathematics,At Meets Grade Level or Above,2021,-0.12,36%,-12%,37%,-14%,21%,-13%,12%,-15%,24%,-13%,35%,-15%,19%,-16%,25%
+Spring_ISD_Grade 4 Mathematics,Spring_ISD,Grade 4 Mathematics,At Meets Grade Level or Above,2019,na,48%,na,49%,na,35%,na,25%,na,39%,na,48%,na,34%,na,41%
+Spring_ISD_Grade 4 Mathematics,Spring_ISD,Grade 4 Mathematics,At Masters Grade Level,2021,-0.07,21%,-8%,22%,-8%,10%,-4%,5%,-10%,11%,-3%,21%,-8%,9%,-11%,12%
+Spring_ISD_Grade 4 Mathematics,Spring_ISD,Grade 4 Mathematics,At Masters Grade Level,2019,na,28%,na,30%,na,18%,na,9%,na,21%,na,24%,na,17%,na,23%
+Spring_ISD_Grade 5 Reading+,Spring_ISD,Grade 5 Reading+,At Approaches Grade Level or Above,2021,-0.13,73%,-13%,73%,-19%,58%,-21%,50%,-19%,61%,-20%,68%,-21%,56%,-17%,62%
+Spring_ISD_Grade 5 Reading+,Spring_ISD,Grade 5 Reading+,At Approaches Grade Level or Above,2019,na,86%,na,86%,na,77%,na,71%,na,80%,na,88%,na,77%,na,79%
+Spring_ISD_Grade 5 Reading+,Spring_ISD,Grade 5 Reading+,At Meets Grade Level or Above,2021,-0.08,46%,-7%,47%,-11%,30%,-9%,24%,-14%,31%,-7%,42%,-11%,28%,-12%,32%
+Spring_ISD_Grade 5 Reading+,Spring_ISD,Grade 5 Reading+,At Meets Grade Level or Above,2019,na,54%,na,54%,na,41%,na,33%,na,45%,na,49%,na,39%,na,44%
+Spring_ISD_Grade 5 Reading+,Spring_ISD,Grade 5 Reading+,At Masters Grade Level,2021,0.01,30%,1%,31%,-4%,16%,-3%,12%,-5%,16%,3%,28%,-3%,15%,-3%,18%
+Spring_ISD_Grade 5 Reading+,Spring_ISD,Grade 5 Reading+,At Masters Grade Level,2019,na,29%,na,30%,na,20%,na,15%,na,21%,na,25%,na,18%,na,21%
+Spring_ISD_Grade 5 Mathematics+,Spring_ISD,Grade 5 Mathematics+,At Approaches Grade Level or Above,2021,-0.2,70%,-19%,70%,-25%,58%,-29%,46%,-25%,63%,-19%,70%,-27%,56%,-24%,64%
+Spring_ISD_Grade 5 Mathematics+,Spring_ISD,Grade 5 Mathematics+,At Approaches Grade Level or Above,2019,na,90%,na,89%,na,83%,na,75%,na,88%,na,89%,na,83%,na,88%
+Spring_ISD_Grade 5 Mathematics+,Spring_ISD,Grade 5 Mathematics+,At Meets Grade Level or Above,2021,-0.14,44%,-14%,45%,-15%,31%,-13%,22%,-17%,35%,-7%,43%,-14%,30%,-16%,39%
+Spring_ISD_Grade 5 Mathematics+,Spring_ISD,Grade 5 Mathematics+,At Meets Grade Level or Above,2019,na,58%,na,59%,na,46%,na,35%,na,52%,na,50%,na,44%,na,55%
+Spring_ISD_Grade 5 Mathematics+,Spring_ISD,Grade 5 Mathematics+,At Masters Grade Level,2021,-0.11,25%,-12%,26%,-10%,15%,-6%,9%,-14%,16%,-2%,24%,-10%,14%,-13%,20%
+Spring_ISD_Grade 5 Mathematics+,Spring_ISD,Grade 5 Mathematics+,At Masters Grade Level,2019,na,36%,na,38%,na,25%,na,15%,na,30%,na,26%,na,24%,na,33%
+Spring_ISD_Grade 5 Science,Spring_ISD,Grade 5 Science,At Approaches Grade Level or Above,2021,-0.13,62%,-13%,62%,-17%,44%,-16%,35%,-20%,46%,-10%,62%,-17%,42%,-19%,46%
+Spring_ISD_Grade 5 Science,Spring_ISD,Grade 5 Science,At Approaches Grade Level or Above,2019,na,75%,na,75%,na,61%,na,51%,na,66%,na,72%,na,59%,na,65%
+Spring_ISD_Grade 5 Science,Spring_ISD,Grade 5 Science,At Meets Grade Level or Above,2021,-0.18,31%,-18%,32%,-18%,16%,-14%,11%,-22%,16%,-11%,34%,-17%,15%,-21%,16%
+Spring_ISD_Grade 5 Science,Spring_ISD,Grade 5 Science,At Meets Grade Level or Above,2019,na,49%,na,50%,na,34%,na,25%,na,38%,na,45%,na,32%,na,37%
+Spring_ISD_Grade 5 Science,Spring_ISD,Grade 5 Science,At Masters Grade Level,2021,-0.11,13%,-11%,14%,-9%,4%,-5%,3%,-11%,4%,-8%,10%,-7%,4%,-11%,4%
+Spring_ISD_Grade 5 Science,Spring_ISD,Grade 5 Science,At Masters Grade Level,2019,na,24%,na,25%,na,13%,na,8%,na,15%,na,18%,na,11%,na,15%
