@@ -1,0 +1,67 @@
+﻿Primary_Key,School_Name,Test_Score,"STAAR Performance Rates by Tested Grade, Subject, and Performance Level",School_Year,State,Region_04,District,African_American,Hispanic,White,American_Indian,Asian,Pacific_Islander,Two_or_More_Races,Special_Ed_Current,Continuously_Enrolled,Non_Continuously_Enrolled,Econ_Disadv,ELL
+Klein_ISD_Grade 3 Reading,Klein_ISD,Grade 3 Reading,At Approaches Grade Level or Above,2022,0.76,0.76,0.82,0.72,0.79,0.89,0.75,0.90,*,0.87,0.51,0.84,0.76,0.74,0.75
+Klein_ISD_Grade 3 Reading,Klein_ISD,Grade 3 Reading,At Approaches Grade Level or Above,2021,0.67,0.68,0.75,0.63,0.70,0.85,0.78,0.85,*,0.75,0.48,0.78,0.65,0.66,0.68
+Klein_ISD_Grade 3 Reading,Klein_ISD,Grade 3 Reading,At Meets Grade Level or Above,2022,0.51,0.52,0.58,0.42,0.52,0.71,0.50,0.73,*,0.65,0.28,0.61,0.49,0.46,0.47
+Klein_ISD_Grade 3 Reading,Klein_ISD,Grade 3 Reading,At Meets Grade Level or Above,2021,0.39,0.39,0.44,0.33,0.35,0.58,0.44,0.58,*,0.51,0.26,0.47,0.33,0.32,0.33
+Klein_ISD_Grade 3 Reading,Klein_ISD,Grade 3 Reading,At Masters Grade Level,2022,0.30,0.31,0.35,0.20,0.28,0.47,0.50,0.51,*,0.42,0.13,0.37,0.27,0.22,0.24
+Klein_ISD_Grade 3 Reading,Klein_ISD,Grade 3 Reading,At Masters Grade Level,2021,0.19,0.20,0.23,0.14,0.15,0.33,0.22,0.33,*,0.35,0.11,0.25,0.17,0.15,0.15
+Klein_ISD_Grade 3 Mathematics,Klein_ISD,Grade 3 Mathematics,At Approaches Grade Level or Above,2022,0.71,0.71,0.78,0.63,0.75,0.87,0.75,0.94,*,0.81,0.48,0.80,0.73,0.70,0.75
+Klein_ISD_Grade 3 Mathematics,Klein_ISD,Grade 3 Mathematics,At Approaches Grade Level or Above,2021,0.62,0.62,0.72,0.54,0.67,0.83,0.78,0.87,*,0.75,0.47,0.74,0.63,0.61,0.70
+Klein_ISD_Grade 3 Mathematics,Klein_ISD,Grade 3 Mathematics,At Meets Grade Level or Above,2022,0.43,0.44,0.51,0.33,0.45,0.63,0.58,0.76,*,0.58,0.28,0.54,0.42,0.39,0.45
+Klein_ISD_Grade 3 Mathematics,Klein_ISD,Grade 3 Mathematics,At Meets Grade Level or Above,2021,0.31,0.31,0.38,0.22,0.29,0.52,0.44,0.56,*,0.42,0.25,0.41,0.27,0.26,0.32
+Klein_ISD_Grade 3 Mathematics,Klein_ISD,Grade 3 Mathematics,At Masters Grade Level,2022,0.21,0.22,0.26,0.14,0.20,0.33,0.25,0.48,*,0.28,0.10,0.28,0.19,0.17,0.21
+Klein_ISD_Grade 3 Mathematics,Klein_ISD,Grade 3 Mathematics,At Masters Grade Level,2021,0.14,0.15,0.16,0.07,0.10,0.25,0.22,0.30,*,0.23,0.08,0.18,0.10,0.10,0.13
+Klein_ISD_Grade 4 Reading,Klein_ISD,Grade 4 Reading,At Approaches Grade Level or Above,2022,0.77,0.77,0.85,0.71,0.83,0.91,1.00,0.94,1.00,0.87,0.53,0.87,0.79,0.79,0.83
+Klein_ISD_Grade 4 Reading,Klein_ISD,Grade 4 Reading,At Approaches Grade Level or Above,2021,0.63,0.63,0.70,0.58,0.64,0.81,0.71,0.88,*,0.77,0.37,0.73,0.63,0.60,0.64
+Klein_ISD_Grade 4 Reading,Klein_ISD,Grade 4 Reading,At Meets Grade Level or Above,2022,0.54,0.55,0.62,0.48,0.57,0.73,0.89,0.75,0.86,0.66,0.30,0.65,0.55,0.52,0.57
+Klein_ISD_Grade 4 Reading,Klein_ISD,Grade 4 Reading,At Meets Grade Level or Above,2021,0.36,0.37,0.41,0.29,0.33,0.55,0.14,0.55,*,0.52,0.20,0.45,0.33,0.28,0.31
+Klein_ISD_Grade 4 Reading,Klein_ISD,Grade 4 Reading,At Masters Grade Level,2022,0.28,0.30,0.35,0.23,0.30,0.46,0.56,0.49,0.57,0.39,0.10,0.38,0.29,0.26,0.30
+Klein_ISD_Grade 4 Reading,Klein_ISD,Grade 4 Reading,At Masters Grade Level,2021,0.17,0.18,0.20,0.11,0.13,0.30,0.00,0.34,*,0.29,0.06,0.22,0.15,0.10,0.14
+Klein_ISD_Grade 4 Mathematics,Klein_ISD,Grade 4 Mathematics,At Approaches Grade Level or Above,2022,0.70,0.70,0.77,0.62,0.73,0.86,0.89,0.90,0.86,0.83,0.45,0.80,0.70,0.69,0.76
+Klein_ISD_Grade 4 Mathematics,Klein_ISD,Grade 4 Mathematics,At Approaches Grade Level or Above,2021,0.59,0.60,0.68,0.51,0.62,0.82,0.86,0.84,*,0.77,0.41,0.72,0.59,0.57,0.63
+Klein_ISD_Grade 4 Mathematics,Klein_ISD,Grade 4 Mathematics,At Meets Grade Level or Above,2022,0.43,0.44,0.50,0.33,0.44,0.63,0.44,0.71,0.71,0.53,0.26,0.55,0.40,0.40,0.48
+Klein_ISD_Grade 4 Mathematics,Klein_ISD,Grade 4 Mathematics,At Meets Grade Level or Above,2021,0.36,0.37,0.41,0.22,0.32,0.56,0.86,0.63,*,0.50,0.25,0.45,0.32,0.28,0.34
+Klein_ISD_Grade 4 Mathematics,Klein_ISD,Grade 4 Mathematics,At Masters Grade Level,2022,0.23,0.24,0.26,0.14,0.19,0.38,0.22,0.47,0.29,0.37,0.11,0.30,0.19,0.17,0.23
+Klein_ISD_Grade 4 Mathematics,Klein_ISD,Grade 4 Mathematics,At Masters Grade Level,2021,0.21,0.22,0.24,0.10,0.16,0.37,0.14,0.48,*,0.29,0.08,0.28,0.17,0.14,0.20
+Klein_ISD_Grade 5 Reading,Klein_ISD,Grade 5 Reading,At Approaches Grade Level or Above,2022,0.81,0.81,0.86,0.82,0.82,0.93,1.00,0.94,*,0.90,0.51,0.88,0.82,0.80,0.81
+Klein_ISD_Grade 5 Reading,Klein_ISD,Grade 5 Reading,At Approaches Grade Level or Above,2021,0.73,0.73,0.81,0.75,0.76,0.90,1.00,0.88,*,0.85,0.48,0.83,0.75,0.73,0.75
+Klein_ISD_Grade 5 Reading,Klein_ISD,Grade 5 Reading,At Meets Grade Level or Above,2022,0.58,0.58,0.66,0.55,0.59,0.77,0.86,0.84,*,0.72,0.29,0.69,0.58,0.55,0.57
+Klein_ISD_Grade 5 Reading,Klein_ISD,Grade 5 Reading,At Meets Grade Level or Above,2021,0.46,0.47,0.54,0.42,0.46,0.68,0.80,0.66,*,0.64,0.26,0.58,0.45,0.42,0.44
+Klein_ISD_Grade 5 Reading,Klein_ISD,Grade 5 Reading,At Masters Grade Level,2022,0.36,0.38,0.44,0.34,0.36,0.57,0.14,0.65,*,0.53,0.13,0.48,0.36,0.31,0.35
+Klein_ISD_Grade 5 Reading,Klein_ISD,Grade 5 Reading,At Masters Grade Level,2021,0.30,0.31,0.37,0.25,0.30,0.50,0.60,0.53,*,0.38,0.11,0.40,0.29,0.26,0.28
+Klein_ISD_Grade 5 Mathematics,Klein_ISD,Grade 5 Mathematics,At Approaches Grade Level or Above,2022,0.77,0.76,0.83,0.72,0.80,0.90,1.00,0.97,*,0.84,0.51,0.86,0.75,0.77,0.83
+Klein_ISD_Grade 5 Mathematics,Klein_ISD,Grade 5 Mathematics,At Approaches Grade Level or Above,2021,0.70,0.70,0.81,0.69,0.78,0.89,0.80,0.94,*,0.81,0.59,0.84,0.75,0.74,0.80
+Klein_ISD_Grade 5 Mathematics,Klein_ISD,Grade 5 Mathematics,At Meets Grade Level or Above,2022,0.48,0.49,0.55,0.40,0.48,0.66,0.57,0.84,*,0.60,0.24,0.58,0.46,0.43,0.50
+Klein_ISD_Grade 5 Mathematics,Klein_ISD,Grade 5 Mathematics,At Meets Grade Level or Above,2021,0.44,0.45,0.55,0.37,0.48,0.67,0.80,0.78,*,0.58,0.30,0.58,0.45,0.43,0.51
+Klein_ISD_Grade 5 Mathematics,Klein_ISD,Grade 5 Mathematics,At Masters Grade Level,2022,0.25,0.26,0.29,0.15,0.22,0.39,0.57,0.59,*,0.36,0.08,0.32,0.22,0.19,0.24
+Klein_ISD_Grade 5 Mathematics,Klein_ISD,Grade 5 Mathematics,At Masters Grade Level,2021,0.25,0.26,0.32,0.16,0.26,0.44,0.50,0.55,*,0.38,0.11,0.36,0.23,0.22,0.29
+Klein_ISD_Grade 5 Science,Klein_ISD,Grade 5 Science,At Approaches Grade Level or Above,2022,0.66,0.66,0.73,0.60,0.65,0.86,1.00,0.88,*,0.82,0.37,0.76,0.64,0.63,0.64
+Klein_ISD_Grade 5 Science,Klein_ISD,Grade 5 Science,At Approaches Grade Level or Above,2021,0.62,0.62,0.72,0.58,0.65,0.86,0.80,0.84,*,0.76,0.44,0.75,0.64,0.60,0.62
+Klein_ISD_Grade 5 Science,Klein_ISD,Grade 5 Science,At Meets Grade Level or Above,2022,0.38,0.39,0.44,0.27,0.35,0.60,0.57,0.65,*,0.53,0.19,0.47,0.34,0.31,0.34
+Klein_ISD_Grade 5 Science,Klein_ISD,Grade 5 Science,At Meets Grade Level or Above,2021,0.31,0.32,0.39,0.24,0.30,0.57,0.70,0.57,*,0.41,0.23,0.43,0.29,0.25,0.29
+Klein_ISD_Grade 5 Science,Klein_ISD,Grade 5 Science,At Masters Grade Level,2022,0.18,0.19,0.22,0.11,0.14,0.34,0.43,0.41,*,0.33,0.08,0.25,0.15,0.12,0.15
+Klein_ISD_Grade 5 Science,Klein_ISD,Grade 5 Science,At Masters Grade Level,2021,0.13,0.14,0.17,0.06,0.10,0.29,0.40,0.30,*,0.22,0.06,0.20,0.09,0.08,0.10
+Klein_ISD_Grade 6 Reading,Klein_ISD,Grade 6 Reading,At Approaches Grade Level or Above,2022,0.70,0.70,0.74,0.62,0.67,0.87,0.89,0.88,*,0.79,0.39,0.77,0.66,0.63,0.60
+Klein_ISD_Grade 6 Reading,Klein_ISD,Grade 6 Reading,At Approaches Grade Level or Above,2021,0.62,0.64,0.68,0.57,0.60,0.81,0.38,0.86,*,0.72,0.34,0.72,0.59,0.58,0.57
+Klein_ISD_Grade 6 Reading,Klein_ISD,Grade 6 Reading,At Meets Grade Level or Above,2022,0.43,0.44,0.48,0.34,0.38,0.65,0.67,0.71,*,0.50,0.22,0.52,0.39,0.34,0.31
+Klein_ISD_Grade 6 Reading,Klein_ISD,Grade 6 Reading,At Meets Grade Level or Above,2021,0.32,0.34,0.37,0.28,0.27,0.52,0.13,0.57,*,0.44,0.19,0.40,0.29,0.26,0.24
+Klein_ISD_Grade 6 Reading,Klein_ISD,Grade 6 Reading,At Masters Grade Level,2022,0.23,0.24,0.26,0.16,0.18,0.40,0.22,0.44,*,0.30,0.06,0.29,0.18,0.15,0.13
+Klein_ISD_Grade 6 Reading,Klein_ISD,Grade 6 Reading,At Masters Grade Level,2021,0.15,0.16,0.16,0.10,0.11,0.25,0.13,0.26,*,0.17,0.06,0.18,0.11,0.09,0.08
+Klein_ISD_Grade 6 Mathematics,Klein_ISD,Grade 6 Mathematics,At Approaches Grade Level or Above,2022,0.73,0.73,0.77,0.68,0.71,0.88,0.89,0.92,*,0.79,0.50,0.79,0.72,0.68,0.68
+Klein_ISD_Grade 6 Mathematics,Klein_ISD,Grade 6 Mathematics,At Approaches Grade Level or Above,2021,0.68,0.68,0.73,0.59,0.70,0.83,0.75,0.90,*,0.80,0.48,0.76,0.67,0.66,0.69
+Klein_ISD_Grade 6 Mathematics,Klein_ISD,Grade 6 Mathematics,At Meets Grade Level or Above,2022,0.39,0.40,0.38,0.26,0.30,0.53,0.56,0.68,*,0.40,0.20,0.41,0.32,0.27,0.26
+Klein_ISD_Grade 6 Mathematics,Klein_ISD,Grade 6 Mathematics,At Meets Grade Level or Above,2021,0.36,0.37,0.35,0.23,0.29,0.47,0.00,0.59,*,0.42,0.23,0.38,0.28,0.25,0.28
+Klein_ISD_Grade 6 Mathematics,Klein_ISD,Grade 6 Mathematics,At Masters Grade Level,2022,0.16,0.18,0.14,0.07,0.09,0.21,0.11,0.36,*,0.12,0.05,0.16,0.10,0.08,0.08
+Klein_ISD_Grade 6 Mathematics,Klein_ISD,Grade 6 Mathematics,At Masters Grade Level,2021,0.15,0.17,0.12,0.07,0.08,0.19,0.00,0.27,*,0.13,0.05,0.13,0.10,0.07,0.08
+Klein_ISD_Grade 7 Reading,Klein_ISD,Grade 7 Reading,At Approaches Grade Level or Above,2022,0.80,0.81,0.82,0.74,0.77,0.91,0.78,0.93,*,0.89,0.47,0.85,0.76,0.75,0.69
+Klein_ISD_Grade 7 Reading,Klein_ISD,Grade 7 Reading,At Approaches Grade Level or Above,2021,0.69,0.71,0.75,0.62,0.69,0.85,0.88,0.89,0.43,0.77,0.35,0.77,0.68,0.64,0.59
+Klein_ISD_Grade 7 Reading,Klein_ISD,Grade 7 Reading,At Meets Grade Level or Above,2022,0.56,0.58,0.62,0.49,0.53,0.77,0.33,0.80,*,0.65,0.28,0.65,0.52,0.51,0.43
+Klein_ISD_Grade 7 Reading,Klein_ISD,Grade 7 Reading,At Meets Grade Level or Above,2021,0.45,0.47,0.51,0.34,0.42,0.65,0.50,0.70,0.14,0.60,0.21,0.54,0.41,0.38,0.31
+Klein_ISD_Grade 7 Reading,Klein_ISD,Grade 7 Reading,At Masters Grade Level,2022,0.37,0.39,0.41,0.31,0.32,0.57,0.11,0.60,*,0.44,0.10,0.45,0.33,0.30,0.24
+Klein_ISD_Grade 7 Reading,Klein_ISD,Grade 7 Reading,At Masters Grade Level,2021,0.25,0.27,0.29,0.17,0.21,0.41,0.50,0.46,0.14,0.37,0.08,0.31,0.23,0.19,0.14
+Klein_ISD_Grade 7 Mathematics,Klein_ISD,Grade 7 Mathematics,At Approaches Grade Level or Above,2022,0.61,0.63,0.69,0.56,0.61,0.83,0.33,0.91,0.83,0.70,0.38,0.73,0.59,0.58,0.57
+Klein_ISD_Grade 7 Mathematics,Klein_ISD,Grade 7 Mathematics,At Approaches Grade Level or Above,2021,0.55,0.57,0.64,0.46,0.56,0.78,0.63,0.88,0.71,0.69,0.32,0.68,0.55,0.51,0.53
+Klein_ISD_Grade 7 Mathematics,Klein_ISD,Grade 7 Mathematics,At Meets Grade Level or Above,2022,0.31,0.34,0.39,0.24,0.28,0.54,0.11,0.73,0.50,0.42,0.20,0.43,0.28,0.26,0.25
+Klein_ISD_Grade 7 Mathematics,Klein_ISD,Grade 7 Mathematics,At Meets Grade Level or Above,2021,0.27,0.29,0.34,0.17,0.24,0.51,0.38,0.63,0.00,0.38,0.18,0.38,0.24,0.20,0.20
+Klein_ISD_Grade 7 Mathematics,Klein_ISD,Grade 7 Mathematics,At Masters Grade Level,2022,0.13,0.15,0.17,0.08,0.10,0.27,0.00,0.43,0.50,0.18,0.05,0.20,0.10,0.09,0.09
+Klein_ISD_Grade 7 Mathematics,Klein_ISD,Grade 7 Mathematics,At Masters Grade Level,2021,0.12,0.13,0.15,0.06,0.08,0.23,0.25,0.36,0.00,0.18,0.05,0.17,0.09,0.07,0.07

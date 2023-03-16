@@ -1,0 +1,67 @@
+﻿Primary_Key,School_Name,Test_Score,"STAAR Performance Rates by Tested Grade, Subject, and Performance Level",School_Year,State,Region_04,District,African_American,Hispanic,White,American_Indian,Asian,Pacific_Islander,Two_or_More_Races,Special_Ed_Current,Continuously_Enrolled,Non_Continuously_Enrolled,Econ_Disadv,ELL
+Goose_Creek_ISD_Grade 3 Reading,Goose_Creek_ISD,Grade 3 Reading,At Approaches Grade Level or Above,2022,0.76,0.76,0.76,0.64,0.77,0.83,0.60,0.91,*,0.71,0.45,0.77,0.68,0.73,0.75
+Goose_Creek_ISD_Grade 3 Reading,Goose_Creek_ISD,Grade 3 Reading,At Approaches Grade Level or Above,2021,0.67,0.68,0.66,0.57,0.65,0.74,0.63,0.90,-,0.69,0.36,0.68,0.59,0.61,0.64
+Goose_Creek_ISD_Grade 3 Reading,Goose_Creek_ISD,Grade 3 Reading,At Meets Grade Level or Above,2022,0.51,0.52,0.50,0.37,0.50,0.59,0.40,0.82,*,0.43,0.27,0.52,0.42,0.46,0.49
+Goose_Creek_ISD_Grade 3 Reading,Goose_Creek_ISD,Grade 3 Reading,At Meets Grade Level or Above,2021,0.39,0.39,0.34,0.25,0.32,0.47,0.38,0.62,-,0.42,0.19,0.36,0.28,0.29,0.31
+Goose_Creek_ISD_Grade 3 Reading,Goose_Creek_ISD,Grade 3 Reading,At Masters Grade Level,2022,0.30,0.31,0.26,0.18,0.26,0.32,0.20,0.50,*,0.19,0.06,0.27,0.20,0.22,0.25
+Goose_Creek_ISD_Grade 3 Reading,Goose_Creek_ISD,Grade 3 Reading,At Masters Grade Level,2021,0.19,0.20,0.15,0.11,0.13,0.24,0.13,0.29,-,0.14,0.05,0.15,0.12,0.12,0.13
+Goose_Creek_ISD_Grade 3 Mathematics,Goose_Creek_ISD,Grade 3 Mathematics,At Approaches Grade Level or Above,2022,0.71,0.71,0.67,0.49,0.70,0.73,0.40,0.91,*,0.67,0.36,0.70,0.57,0.64,0.70
+Goose_Creek_ISD_Grade 3 Mathematics,Goose_Creek_ISD,Grade 3 Mathematics,At Approaches Grade Level or Above,2021,0.62,0.62,0.61,0.45,0.61,0.68,0.63,0.90,-,0.67,0.35,0.63,0.53,0.56,0.63
+Goose_Creek_ISD_Grade 3 Mathematics,Goose_Creek_ISD,Grade 3 Mathematics,At Meets Grade Level or Above,2022,0.43,0.44,0.41,0.28,0.42,0.45,0.20,0.64,*,0.38,0.22,0.43,0.29,0.37,0.44
+Goose_Creek_ISD_Grade 3 Mathematics,Goose_Creek_ISD,Grade 3 Mathematics,At Meets Grade Level or Above,2021,0.31,0.31,0.28,0.15,0.28,0.41,0.25,0.52,-,0.28,0.17,0.29,0.26,0.24,0.31
+Goose_Creek_ISD_Grade 3 Mathematics,Goose_Creek_ISD,Grade 3 Mathematics,At Masters Grade Level,2022,0.21,0.22,0.17,0.09,0.18,0.20,0.20,0.36,*,0.10,0.05,0.18,0.11,0.15,0.20
+Goose_Creek_ISD_Grade 3 Mathematics,Goose_Creek_ISD,Grade 3 Mathematics,At Masters Grade Level,2021,0.14,0.15,0.12,0.04,0.11,0.17,0.13,0.43,-,0.11,0.07,0.12,0.10,0.10,0.13
+Goose_Creek_ISD_Grade 4 Reading,Goose_Creek_ISD,Grade 4 Reading,At Approaches Grade Level or Above,2022,0.77,0.77,0.73,0.59,0.74,0.78,0.86,0.96,-,0.86,0.39,0.75,0.67,0.69,0.76
+Goose_Creek_ISD_Grade 4 Reading,Goose_Creek_ISD,Grade 4 Reading,At Approaches Grade Level or Above,2021,0.63,0.63,0.60,0.45,0.62,0.65,0.43,0.78,*,0.59,0.27,0.62,0.55,0.55,0.59
+Goose_Creek_ISD_Grade 4 Reading,Goose_Creek_ISD,Grade 4 Reading,At Meets Grade Level or Above,2022,0.54,0.55,0.51,0.38,0.51,0.57,0.57,0.88,-,0.74,0.23,0.54,0.43,0.46,0.52
+Goose_Creek_ISD_Grade 4 Reading,Goose_Creek_ISD,Grade 4 Reading,At Meets Grade Level or Above,2021,0.36,0.37,0.34,0.22,0.33,0.42,0.29,0.61,*,0.38,0.16,0.35,0.29,0.28,0.31
+Goose_Creek_ISD_Grade 4 Reading,Goose_Creek_ISD,Grade 4 Reading,At Masters Grade Level,2022,0.28,0.30,0.25,0.16,0.24,0.30,0.57,0.48,-,0.43,0.07,0.27,0.19,0.21,0.22
+Goose_Creek_ISD_Grade 4 Reading,Goose_Creek_ISD,Grade 4 Reading,At Masters Grade Level,2021,0.17,0.18,0.14,0.06,0.14,0.21,0.00,0.35,*,0.22,0.05,0.15,0.10,0.10,0.11
+Goose_Creek_ISD_Grade 4 Mathematics,Goose_Creek_ISD,Grade 4 Mathematics,At Approaches Grade Level or Above,2022,0.70,0.70,0.65,0.48,0.67,0.68,0.57,0.96,-,0.69,0.34,0.67,0.61,0.62,0.71
+Goose_Creek_ISD_Grade 4 Mathematics,Goose_Creek_ISD,Grade 4 Mathematics,At Approaches Grade Level or Above,2021,0.59,0.60,0.58,0.40,0.59,0.67,0.29,0.86,*,0.51,0.26,0.61,0.49,0.54,0.59
+Goose_Creek_ISD_Grade 4 Mathematics,Goose_Creek_ISD,Grade 4 Mathematics,At Meets Grade Level or Above,2022,0.43,0.44,0.38,0.25,0.37,0.47,0.29,0.88,-,0.43,0.19,0.40,0.31,0.33,0.40
+Goose_Creek_ISD_Grade 4 Mathematics,Goose_Creek_ISD,Grade 4 Mathematics,At Meets Grade Level or Above,2021,0.36,0.37,0.32,0.16,0.33,0.40,0.14,0.73,*,0.24,0.17,0.35,0.23,0.28,0.31
+Goose_Creek_ISD_Grade 4 Mathematics,Goose_Creek_ISD,Grade 4 Mathematics,At Masters Grade Level,2022,0.23,0.24,0.18,0.09,0.17,0.27,0.29,0.60,-,0.20,0.07,0.20,0.13,0.15,0.20
+Goose_Creek_ISD_Grade 4 Mathematics,Goose_Creek_ISD,Grade 4 Mathematics,At Masters Grade Level,2021,0.21,0.22,0.18,0.05,0.18,0.26,0.14,0.50,*,0.11,0.06,0.19,0.14,0.14,0.16
+Goose_Creek_ISD_Grade 5 Reading,Goose_Creek_ISD,Grade 5 Reading,At Approaches Grade Level or Above,2022,0.81,0.81,0.77,0.58,0.80,0.78,*,1.00,*,0.82,0.42,0.79,0.70,0.74,0.79
+Goose_Creek_ISD_Grade 5 Reading,Goose_Creek_ISD,Grade 5 Reading,At Approaches Grade Level or Above,2021,0.73,0.73,0.71,0.62,0.71,0.76,0.50,0.96,-,0.75,0.30,0.72,0.67,0.67,0.72
+Goose_Creek_ISD_Grade 5 Reading,Goose_Creek_ISD,Grade 5 Reading,At Meets Grade Level or Above,2022,0.58,0.58,0.53,0.40,0.54,0.57,*,0.77,*,0.66,0.23,0.54,0.47,0.49,0.52
+Goose_Creek_ISD_Grade 5 Reading,Goose_Creek_ISD,Grade 5 Reading,At Meets Grade Level or Above,2021,0.46,0.47,0.41,0.25,0.40,0.51,0.17,0.74,-,0.53,0.17,0.42,0.38,0.36,0.40
+Goose_Creek_ISD_Grade 5 Reading,Goose_Creek_ISD,Grade 5 Reading,At Masters Grade Level,2022,0.36,0.38,0.30,0.20,0.31,0.33,*,0.59,*,0.43,0.08,0.31,0.26,0.27,0.30
+Goose_Creek_ISD_Grade 5 Reading,Goose_Creek_ISD,Grade 5 Reading,At Masters Grade Level,2021,0.30,0.31,0.24,0.13,0.22,0.36,0.17,0.52,-,0.31,0.03,0.24,0.23,0.19,0.21
+Goose_Creek_ISD_Grade 5 Mathematics,Goose_Creek_ISD,Grade 5 Mathematics,At Approaches Grade Level or Above,2022,0.77,0.76,0.72,0.57,0.74,0.78,*,0.95,*,0.68,0.41,0.74,0.66,0.69,0.77
+Goose_Creek_ISD_Grade 5 Mathematics,Goose_Creek_ISD,Grade 5 Mathematics,At Approaches Grade Level or Above,2021,0.70,0.70,0.71,0.58,0.72,0.74,0.50,0.91,-,0.69,0.41,0.72,0.67,0.68,0.74
+Goose_Creek_ISD_Grade 5 Mathematics,Goose_Creek_ISD,Grade 5 Mathematics,At Meets Grade Level or Above,2022,0.48,0.49,0.40,0.25,0.43,0.41,*,0.82,*,0.36,0.18,0.43,0.33,0.37,0.47
+Goose_Creek_ISD_Grade 5 Mathematics,Goose_Creek_ISD,Grade 5 Mathematics,At Meets Grade Level or Above,2021,0.44,0.45,0.42,0.29,0.42,0.46,0.33,0.83,-,0.50,0.18,0.43,0.38,0.38,0.42
+Goose_Creek_ISD_Grade 5 Mathematics,Goose_Creek_ISD,Grade 5 Mathematics,At Masters Grade Level,2022,0.25,0.26,0.19,0.06,0.21,0.22,*,0.59,*,0.11,0.07,0.20,0.15,0.17,0.24
+Goose_Creek_ISD_Grade 5 Mathematics,Goose_Creek_ISD,Grade 5 Mathematics,At Masters Grade Level,2021,0.25,0.26,0.23,0.12,0.23,0.25,0.00,0.61,-,0.31,0.06,0.24,0.17,0.19,0.22
+Goose_Creek_ISD_Grade 5 Science,Goose_Creek_ISD,Grade 5 Science,At Approaches Grade Level or Above,2022,0.66,0.66,0.64,0.46,0.65,0.75,*,0.91,*,0.66,0.35,0.66,0.58,0.60,0.64
+Goose_Creek_ISD_Grade 5 Science,Goose_Creek_ISD,Grade 5 Science,At Approaches Grade Level or Above,2021,0.62,0.62,0.66,0.52,0.66,0.76,0.50,0.91,-,0.72,0.33,0.68,0.63,0.63,0.65
+Goose_Creek_ISD_Grade 5 Science,Goose_Creek_ISD,Grade 5 Science,At Meets Grade Level or Above,2022,0.38,0.39,0.33,0.16,0.34,0.40,*,0.68,*,0.34,0.17,0.34,0.28,0.29,0.33
+Goose_Creek_ISD_Grade 5 Science,Goose_Creek_ISD,Grade 5 Science,At Meets Grade Level or Above,2021,0.31,0.32,0.32,0.19,0.31,0.44,0.33,0.74,-,0.39,0.18,0.33,0.31,0.28,0.31
+Goose_Creek_ISD_Grade 5 Science,Goose_Creek_ISD,Grade 5 Science,At Masters Grade Level,2022,0.18,0.19,0.13,0.06,0.13,0.20,*,0.41,*,0.11,0.08,0.14,0.10,0.11,0.14
+Goose_Creek_ISD_Grade 5 Science,Goose_Creek_ISD,Grade 5 Science,At Masters Grade Level,2021,0.13,0.14,0.12,0.07,0.10,0.21,0.00,0.52,-,0.22,0.04,0.13,0.10,0.09,0.11
+Goose_Creek_ISD_Grade 6 Reading,Goose_Creek_ISD,Grade 6 Reading,At Approaches Grade Level or Above,2022,0.70,0.70,0.64,0.52,0.64,0.72,0.67,0.92,*,0.74,0.27,0.66,0.59,0.61,0.62
+Goose_Creek_ISD_Grade 6 Reading,Goose_Creek_ISD,Grade 6 Reading,At Approaches Grade Level or Above,2021,0.62,0.64,0.54,0.47,0.54,0.59,0.60,0.88,*,0.59,0.18,0.55,0.49,0.50,0.47
+Goose_Creek_ISD_Grade 6 Reading,Goose_Creek_ISD,Grade 6 Reading,At Meets Grade Level or Above,2022,0.43,0.44,0.35,0.27,0.31,0.49,0.67,0.72,*,0.56,0.16,0.35,0.34,0.32,0.26
+Goose_Creek_ISD_Grade 6 Reading,Goose_Creek_ISD,Grade 6 Reading,At Meets Grade Level or Above,2021,0.32,0.34,0.25,0.19,0.25,0.29,0.00,0.56,*,0.24,0.11,0.27,0.19,0.21,0.19
+Goose_Creek_ISD_Grade 6 Reading,Goose_Creek_ISD,Grade 6 Reading,At Masters Grade Level,2022,0.23,0.24,0.15,0.11,0.13,0.24,0.17,0.48,*,0.18,0.04,0.15,0.14,0.12,0.09
+Goose_Creek_ISD_Grade 6 Reading,Goose_Creek_ISD,Grade 6 Reading,At Masters Grade Level,2021,0.15,0.16,0.09,0.06,0.09,0.12,0.00,0.38,*,0.07,0.03,0.10,0.05,0.07,0.06
+Goose_Creek_ISD_Grade 6 Mathematics,Goose_Creek_ISD,Grade 6 Mathematics,At Approaches Grade Level or Above,2022,0.73,0.73,0.73,0.59,0.74,0.77,0.67,1.00,*,0.79,0.37,0.73,0.71,0.70,0.73
+Goose_Creek_ISD_Grade 6 Mathematics,Goose_Creek_ISD,Grade 6 Mathematics,At Approaches Grade Level or Above,2021,0.68,0.68,0.67,0.55,0.69,0.70,0.60,0.81,*,0.64,0.37,0.68,0.63,0.63,0.65
+Goose_Creek_ISD_Grade 6 Mathematics,Goose_Creek_ISD,Grade 6 Mathematics,At Meets Grade Level or Above,2022,0.39,0.40,0.37,0.27,0.36,0.45,0.33,0.84,*,0.50,0.15,0.38,0.34,0.33,0.34
+Goose_Creek_ISD_Grade 6 Mathematics,Goose_Creek_ISD,Grade 6 Mathematics,At Meets Grade Level or Above,2021,0.36,0.37,0.36,0.26,0.36,0.43,0.20,0.69,*,0.32,0.16,0.38,0.26,0.30,0.32
+Goose_Creek_ISD_Grade 6 Mathematics,Goose_Creek_ISD,Grade 6 Mathematics,At Masters Grade Level,2022,0.16,0.18,0.14,0.08,0.13,0.19,0.33,0.56,*,0.32,0.06,0.16,0.10,0.13,0.12
+Goose_Creek_ISD_Grade 6 Mathematics,Goose_Creek_ISD,Grade 6 Mathematics,At Masters Grade Level,2021,0.15,0.17,0.15,0.08,0.15,0.19,0.00,0.44,*,0.11,0.03,0.16,0.10,0.12,0.13
+Goose_Creek_ISD_Grade 7 Reading,Goose_Creek_ISD,Grade 7 Reading,At Approaches Grade Level or Above,2022,0.80,0.81,0.74,0.70,0.74,0.79,0.71,1.00,*,0.80,0.42,0.76,0.70,0.71,0.63
+Goose_Creek_ISD_Grade 7 Reading,Goose_Creek_ISD,Grade 7 Reading,At Approaches Grade Level or Above,2021,0.69,0.71,0.61,0.53,0.60,0.67,*,0.90,*,0.63,0.25,0.64,0.51,0.57,0.53
+Goose_Creek_ISD_Grade 7 Reading,Goose_Creek_ISD,Grade 7 Reading,At Meets Grade Level or Above,2022,0.56,0.58,0.46,0.41,0.46,0.52,0.43,0.74,*,0.43,0.17,0.48,0.39,0.43,0.31
+Goose_Creek_ISD_Grade 7 Reading,Goose_Creek_ISD,Grade 7 Reading,At Meets Grade Level or Above,2021,0.45,0.47,0.35,0.27,0.34,0.40,*,0.81,*,0.48,0.13,0.37,0.27,0.29,0.26
+Goose_Creek_ISD_Grade 7 Reading,Goose_Creek_ISD,Grade 7 Reading,At Masters Grade Level,2022,0.37,0.39,0.28,0.25,0.28,0.33,0.14,0.63,*,0.31,0.04,0.30,0.23,0.25,0.15
+Goose_Creek_ISD_Grade 7 Reading,Goose_Creek_ISD,Grade 7 Reading,At Masters Grade Level,2021,0.25,0.27,0.17,0.16,0.16,0.17,*,0.52,*,0.30,0.03,0.18,0.11,0.13,0.10
+Goose_Creek_ISD_Grade 7 Mathematics,Goose_Creek_ISD,Grade 7 Mathematics,At Approaches Grade Level or Above,2022,0.61,0.63,0.65,0.53,0.66,0.72,1.00,0.89,*,0.51,0.35,0.67,0.57,0.60,0.58
+Goose_Creek_ISD_Grade 7 Mathematics,Goose_Creek_ISD,Grade 7 Mathematics,At Approaches Grade Level or Above,2021,0.55,0.57,0.61,0.52,0.60,0.70,0.80,0.96,*,0.48,0.29,0.64,0.50,0.56,0.55
+Goose_Creek_ISD_Grade 7 Mathematics,Goose_Creek_ISD,Grade 7 Mathematics,At Meets Grade Level or Above,2022,0.31,0.34,0.36,0.26,0.37,0.39,0.43,0.68,*,0.29,0.13,0.39,0.26,0.33,0.27
+Goose_Creek_ISD_Grade 7 Mathematics,Goose_Creek_ISD,Grade 7 Mathematics,At Meets Grade Level or Above,2021,0.27,0.29,0.32,0.24,0.31,0.38,0.60,0.74,*,0.33,0.13,0.34,0.22,0.26,0.24
+Goose_Creek_ISD_Grade 7 Mathematics,Goose_Creek_ISD,Grade 7 Mathematics,At Masters Grade Level,2022,0.13,0.15,0.16,0.08,0.16,0.18,0.00,0.58,*,0.11,0.04,0.17,0.10,0.13,0.09
+Goose_Creek_ISD_Grade 7 Mathematics,Goose_Creek_ISD,Grade 7 Mathematics,At Masters Grade Level,2021,0.12,0.13,0.13,0.09,0.13,0.16,0.00,0.52,*,0.11,0.04,0.14,0.08,0.10,0.08
