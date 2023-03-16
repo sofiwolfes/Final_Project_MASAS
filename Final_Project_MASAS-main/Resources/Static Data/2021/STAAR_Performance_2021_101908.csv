@@ -1,0 +1,43 @@
+﻿Primary_Key,School_Name,,,School_Year,YoY_State,State,YoY_Region_04,Region_04,YoY_District,District,YoY_African_American,African_American,YoY_Hispanic,Hispanic,YOY_White,White,YoY_Econ_Disadv,Econ_Disadv,YoY_ELL,ELL
+Deer_Park_ISD_Grade 3 Reading,Deer_Park_ISD,Grade 3 Reading,At Approaches Grade Level or Above,2021,-0.09,67%,-8%,68%,-10%,72%,-23%,44%,-11%,66%,-5%,83%,-10%,64%,-2%,64%
+Deer_Park_ISD_Grade 3 Reading,Deer_Park_ISD,Grade 3 Reading,At Approaches Grade Level or Above,2019,na,76%,na,76%,na,82%,na,67%,na,77%,na,88%,na,74%,na,66%
+Deer_Park_ISD_Grade 3 Reading,Deer_Park_ISD,Grade 3 Reading,At Meets Grade Level or Above,2021,-0.06,39%,-7%,39%,-3%,42%,-22%,0%,-4%,35%,-3%,52%,-2%,31%,-2%,30%
+Deer_Park_ISD_Grade 3 Reading,Deer_Park_ISD,Grade 3 Reading,At Meets Grade Level or Above,2019,na,45%,na,46%,na,45%,na,22%,na,39%,na,55%,na,33%,na,32%
+Deer_Park_ISD_Grade 3 Reading,Deer_Park_ISD,Grade 3 Reading,At Masters Grade Level,2021,-0.08,19%,-8%,20%,-2%,23%,-6%,0%,-1%,19%,-2%,31%,0%,15%,2%,15%
+Deer_Park_ISD_Grade 3 Reading,Deer_Park_ISD,Grade 3 Reading,At Masters Grade Level,2019,na,27%,na,28%,na,25%,na,6%,na,20%,na,33%,na,15%,na,13%
+Deer_Park_ISD_Grade 3 Mathematics,Deer_Park_ISD,Grade 3 Mathematics,At Approaches Grade Level or Above,2021,-0.17,62%,-17%,62%,-12%,70%,-34%,33%,-13%,68%,-10%,75%,-14%,62%,-8%,72%
+Deer_Park_ISD_Grade 3 Mathematics,Deer_Park_ISD,Grade 3 Mathematics,At Approaches Grade Level or Above,2019,na,79%,na,79%,na,82%,na,67%,na,81%,na,85%,na,76%,na,80%
+Deer_Park_ISD_Grade 3 Mathematics,Deer_Park_ISD,Grade 3 Mathematics,At Meets Grade Level or Above,2021,-0.18,31%,-18%,31%,-14%,35%,-22%,0%,-12%,32%,-19%,39%,-12%,26%,-10%,32%
+Deer_Park_ISD_Grade 3 Mathematics,Deer_Park_ISD,Grade 3 Mathematics,At Meets Grade Level or Above,2019,na,49%,na,49%,na,49%,na,22%,na,44%,na,58%,na,38%,na,42%
+Deer_Park_ISD_Grade 3 Mathematics,Deer_Park_ISD,Grade 3 Mathematics,At Masters Grade Level,2021,-0.11,14%,-10%,15%,-7%,15%,-6%,0%,-5%,12%,-9%,20%,-3%,9%,-3%,12%
+Deer_Park_ISD_Grade 3 Mathematics,Deer_Park_ISD,Grade 3 Mathematics,At Masters Grade Level,2019,na,25%,na,25%,na,22%,na,6%,na,17%,na,29%,na,12%,na,15%
+Deer_Park_ISD_Grade 4 Reading,Deer_Park_ISD,Grade 4 Reading,At Approaches Grade Level or Above,2021,-0.12,63%,-12%,63%,-15%,65%,-19%,43%,-15%,60%,-14%,74%,-17%,56%,-23%,43%
+Deer_Park_ISD_Grade 4 Reading,Deer_Park_ISD,Grade 4 Reading,At Approaches Grade Level or Above,2019,na,75%,na,75%,na,80%,na,62%,na,75%,na,88%,na,73%,na,66%
+Deer_Park_ISD_Grade 4 Reading,Deer_Park_ISD,Grade 4 Reading,At Meets Grade Level or Above,2021,-0.08,36%,-8%,37%,-8%,37%,-16%,17%,-7%,30%,-13%,48%,-5%,28%,-13%,13%
+Deer_Park_ISD_Grade 4 Reading,Deer_Park_ISD,Grade 4 Reading,At Meets Grade Level or Above,2019,na,44%,na,45%,na,45%,na,33%,na,37%,na,61%,na,33%,na,26%
+Deer_Park_ISD_Grade 4 Reading,Deer_Park_ISD,Grade 4 Reading,At Masters Grade Level,2021,-0.05,17%,-5%,18%,-5%,17%,-5%,9%,-4%,12%,-6%,26%,-2%,11%,-3%,4%
+Deer_Park_ISD_Grade 4 Reading,Deer_Park_ISD,Grade 4 Reading,At Masters Grade Level,2019,na,22%,na,23%,na,22%,na,14%,na,16%,na,32%,na,13%,na,7%
+Deer_Park_ISD_Grade 4 Mathematics,Deer_Park_ISD,Grade 4 Mathematics,At Approaches Grade Level or Above,2021,-0.16,59%,-16%,60%,-16%,67%,-24%,43%,-18%,62%,-12%,77%,-20%,56%,-32%,49%
+Deer_Park_ISD_Grade 4 Mathematics,Deer_Park_ISD,Grade 4 Mathematics,At Approaches Grade Level or Above,2019,na,75%,na,76%,na,83%,na,67%,na,80%,na,89%,na,76%,na,81%
+Deer_Park_ISD_Grade 4 Mathematics,Deer_Park_ISD,Grade 4 Mathematics,At Meets Grade Level or Above,2021,-0.12,36%,-12%,37%,-12%,42%,-12%,17%,-14%,34%,-7%,57%,-13%,31%,-20%,23%
+Deer_Park_ISD_Grade 4 Mathematics,Deer_Park_ISD,Grade 4 Mathematics,At Meets Grade Level or Above,2019,na,48%,na,49%,na,54%,na,29%,na,48%,na,64%,na,44%,na,43%
+Deer_Park_ISD_Grade 4 Mathematics,Deer_Park_ISD,Grade 4 Mathematics,At Masters Grade Level,2021,-0.07,21%,-8%,22%,-7%,26%,-15%,9%,-5%,21%,-7%,37%,-6%,17%,-7%,12%
+Deer_Park_ISD_Grade 4 Mathematics,Deer_Park_ISD,Grade 4 Mathematics,At Masters Grade Level,2019,na,28%,na,30%,na,33%,na,24%,na,26%,na,44%,na,23%,na,19%
+Deer_Park_ISD_Grade 5 Reading+,Deer_Park_ISD,Grade 5 Reading+,At Approaches Grade Level or Above,2021,-0.13,73%,-13%,73%,-15%,77%,-31%,57%,-15%,74%,-13%,83%,-18%,69%,-18%,66%
+Deer_Park_ISD_Grade 5 Reading+,Deer_Park_ISD,Grade 5 Reading+,At Approaches Grade Level or Above,2019,na,86%,na,86%,na,92%,na,88%,na,89%,na,96%,na,87%,na,84%
+Deer_Park_ISD_Grade 5 Reading+,Deer_Park_ISD,Grade 5 Reading+,At Meets Grade Level or Above,2021,-0.08,46%,-7%,47%,-9%,48%,-12%,26%,-8%,42%,-10%,58%,-11%,36%,-5%,39%
+Deer_Park_ISD_Grade 5 Reading+,Deer_Park_ISD,Grade 5 Reading+,At Meets Grade Level or Above,2019,na,54%,na,54%,na,57%,na,38%,na,50%,na,68%,na,47%,na,44%
+Deer_Park_ISD_Grade 5 Reading+,Deer_Park_ISD,Grade 5 Reading+,At Masters Grade Level,2021,0.01,30%,1%,31%,1%,29%,-8%,9%,0%,24%,3%,38%,-2%,19%,3%,17%
+Deer_Park_ISD_Grade 5 Reading+,Deer_Park_ISD,Grade 5 Reading+,At Masters Grade Level,2019,na,29%,na,30%,na,28%,na,17%,na,24%,na,35%,na,21%,na,14%
+Deer_Park_ISD_Grade 5 Mathematics+,Deer_Park_ISD,Grade 5 Mathematics+,At Approaches Grade Level or Above,2021,-0.2,70%,-19%,70%,-22%,74%,-45%,50%,-20%,75%,-23%,75%,-27%,68%,-18%,77%
+Deer_Park_ISD_Grade 5 Mathematics+,Deer_Park_ISD,Grade 5 Mathematics+,At Approaches Grade Level or Above,2019,na,90%,na,89%,na,96%,na,95%,na,95%,na,98%,na,95%,na,95%
+Deer_Park_ISD_Grade 5 Mathematics+,Deer_Park_ISD,Grade 5 Mathematics+,At Meets Grade Level or Above,2021,-0.14,44%,-14%,45%,-17%,39%,-36%,5%,-13%,35%,-23%,47%,-17%,31%,-9%,31%
+Deer_Park_ISD_Grade 5 Mathematics+,Deer_Park_ISD,Grade 5 Mathematics+,At Meets Grade Level or Above,2019,na,58%,na,59%,na,56%,na,41%,na,48%,na,70%,na,48%,na,40%
+Deer_Park_ISD_Grade 5 Mathematics+,Deer_Park_ISD,Grade 5 Mathematics+,At Masters Grade Level,2021,-0.11,25%,-12%,26%,-18%,13%,-14%,0%,-15%,11%,-23%,18%,-15%,10%,-7%,10%
+Deer_Park_ISD_Grade 5 Mathematics+,Deer_Park_ISD,Grade 5 Mathematics+,At Masters Grade Level,2019,na,36%,na,38%,na,31%,na,14%,na,26%,na,41%,na,25%,na,17%
+Deer_Park_ISD_Grade 5 Science,Deer_Park_ISD,Grade 5 Science,At Approaches Grade Level or Above,2021,-0.13,62%,-13%,62%,-11%,75%,-31%,48%,-11%,70%,-12%,83%,-15%,64%,-10%,64%
+Deer_Park_ISD_Grade 5 Science,Deer_Park_ISD,Grade 5 Science,At Approaches Grade Level or Above,2019,na,75%,na,75%,na,86%,na,79%,na,81%,na,95%,na,79%,na,74%
+Deer_Park_ISD_Grade 5 Science,Deer_Park_ISD,Grade 5 Science,At Meets Grade Level or Above,2021,-0.18,31%,-18%,32%,-22%,40%,-33%,13%,-19%,35%,-29%,48%,-24%,28%,-15%,28%
+Deer_Park_ISD_Grade 5 Science,Deer_Park_ISD,Grade 5 Science,At Meets Grade Level or Above,2019,na,49%,na,50%,na,62%,na,46%,na,54%,na,77%,na,52%,na,43%
+Deer_Park_ISD_Grade 5 Science,Deer_Park_ISD,Grade 5 Science,At Masters Grade Level,2021,-0.11,13%,-11%,14%,-18%,15%,-21%,0%,-14%,11%,-25%,21%,-17%,6%,-14%,5%
+Deer_Park_ISD_Grade 5 Science,Deer_Park_ISD,Grade 5 Science,At Masters Grade Level,2019,na,24%,na,25%,na,33%,na,21%,na,25%,na,46%,na,23%,na,19%
