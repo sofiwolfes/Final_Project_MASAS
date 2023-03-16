@@ -28,15 +28,6 @@ David: "the stated focus is on Harris County, though in the group check-ins we d
 <br>
 Our response: "Originally we were going to analyze data from one district in Texas; we were encouraged to expand our analysis to the whole county to enrichen our data vizualization and create a robust database. We decided to focus only on one county because of time constraints. However, long-term, we hope to incorporate all county data in our analysis. Our database includes all schools within Harris County, Texas."
 
-**We might want to either add more or adjust verbiage to include new data parameters. For example: what grades are we looking at? **
-
-<br>
-Questions:
-* As students progress through school grades, do their language arts (reading & writing) scores increase?
-* How do academic scores progress or change through the years for multicultural/multiracial demographics of students? 
-* How did the pandemic period impact the test scores of English Learners (EL)? 
-* How did the pandemic period impact the test scores of multiracial students?
-
 <hr>
 **We should come up with a time limit for each secion & develop drafts of what we'll say for each**
 <br>
