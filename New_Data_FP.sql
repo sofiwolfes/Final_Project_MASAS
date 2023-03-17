@@ -3,23 +3,23 @@ Create Table YOY_2122_combined(
 "School_Name" Varchar (2000),
 "Grade_STAAR_Test" Varchar (2000),
 "Mastery_Level" Varchar (2000),
-"School_Year" Date,
-"YOY_State" Decimal (3,3),
-"State" Decimal (3,3),
-"YOY_Region" Decimal (3,3),
-"Region_04" Decimal (3,3),
-"YOY_District" Decimal (3,3),
-"District" Decimal (3,3),
-"YOY_African_American" Decimal (3,3),
-"African_American" Decimal (3,3),
-"YoY_Hispanic" Decimal (3,3),
-"Hispanic" Decimal (3,3),
-"YoY_White" Decimal (3,3),
-"White" Decimal (3,3),
-"YoY_Econ_Disadv" Decimal (3,3),
-"Econ_Disadv" Decimal (3,3),
-"YoY_ELL" Decimal (3,3),
-"ELL" Decimal (3,3)
+"School_Year" NUMERIC,
+"YOY_State" NUMERIC,
+"State" NUMERIC,
+"YOY_Region" NUMERIC,
+"Region_04" NUMERIC,
+"YOY_District" NUMERIC,
+"District" NUMERIC,
+"YOY_African_American" NUMERIC,
+"African_American" NUMERIC,
+"YoY_Hispanic" NUMERIC,
+"Hispanic" NUMERIC,
+"YoY_White" NUMERIC,
+"White" NUMERIC,
+"YoY_Econ_Disadv" NUMERIC,
+"Econ_Disadv" NUMERIC,
+"YoY_ELL" NUMERIC,
+"ELL" NUMERIC
 
 );
 
@@ -28,24 +28,23 @@ Create Table YOY_1819_combined(
 "School_Name" Varchar (2000),
 "Grade_STAAR_Test" Varchar (2000),
 "Mastery_Level" Varchar (2000),
-"School_Year" Date,
-"YOY_State" Decimal (3,3),
-"State" Decimal (3,3),
-"YOY_Region" Decimal (3,3),
-"Region_04" Decimal (3,3),
-"YOY_District" Decimal (3,3),
-"District" Decimal (3,3),
-"YOY_African_American" Decimal (3,3),
-"African_American" Decimal (3,3),
-"YoY_Hispanic" Decimal (3,3),
-"Hispanic" Decimal (3,3),
-"YoY_White" Decimal (3,3),
-"White" Decimal (3,3),
-"YoY_Econ_Disadv" Decimal (3,3),
-"Econ_Disadv" Decimal (3,3),
-"YoY_ELL" Decimal (3,3),
-"ELL" Decimal (3,3)
-
+"School_Year" NUMERIC,
+"YOY_State" NUMERIC,
+"State" NUMERIC,
+"YOY_Region" NUMERIC,
+"Region_04" NUMERIC,
+"YOY_District" NUMERIC,
+"District" NUMERIC,
+"YOY_African_American" NUMERIC,
+"African_American" NUMERIC,
+"YoY_Hispanic" NUMERIC,
+"Hispanic" NUMERIC,
+"YoY_White" NUMERIC,
+"White" NUMERIC,
+"YoY_Econ_Disadv" NUMERIC,
+"Econ_Disadv" NUMERIC,
+"YoY_ELL" NUMERIC,
+"ELL" NUMERIC
 );
 
 Create Table YOY_1921_combined(
@@ -53,28 +52,28 @@ Create Table YOY_1921_combined(
 "School_Name" Varchar (2000),
 "Grade_STAAR_Test" Varchar (2000),
 "Mastery_Level" Varchar (2000),
-"School_Year" Date,
-"YOY_State" Decimal (3,3),
-"State" Decimal (3,3),
-"YOY_Region" Decimal (3,3),
-"Region_04" Decimal (3,3),
-"YOY_District" Decimal (3,3),
-"District" Decimal (3,3),
-"YOY_African_American" Decimal (3,3),
-"African_American" Decimal (3,3),
-"YoY_Hispanic" Decimal (3,3),
-"Hispanic" Decimal (3,3),
-"YoY_White" Decimal (3,3),
-"White" Decimal (3,3),
-"YoY_Econ_Disadv" Decimal (3,3),
-"Econ_Disadv" Decimal (3,3),
-"YoY_ELL" Decimal (3,3),
-"ELL" Decimal (3,3)
+"School_Year" NUMERIC,
+"YOY_State" NUMERIC,
+"State" NUMERIC,
+"YOY_Region" NUMERIC,
+"Region_04" NUMERIC,
+"YOY_District" NUMERIC,
+"District" NUMERIC,
+"YOY_African_American" NUMERIC,
+"African_American" NUMERIC,
+"YoY_Hispanic" NUMERIC,
+"Hispanic" NUMERIC,
+"YoY_White" NUMERIC,
+"White" NUMERIC,
+"YoY_Econ_Disadv" NUMERIC,
+"Econ_Disadv" NUMERIC,
+"YoY_ELL" NUMERIC,
+"ELL"  NUMERIC
 );
 
-
-
-
+Select * From YOY_1921_combined
+Select * From YOY_1819_combined
+Select * From YOY_2122_combined
 
 
 
