@@ -7,6 +7,7 @@ Week 2 Deliverables for March 16th:
 - Database that stores data for the project with at least two tables or collections (20 points) - Shah
 
 Presentation Deliverables (Sofia to create):
+LINK: https://docs.google.com/presentation/d/1NOg834Tvg7LUZZ1kR1qbmaH5noaO-ygMyaTzDU676KA/edit?usp=sharing
 - The selected topic and the reasoning for that selection (2 points) - Adeeba
 - A description of the data (3 points) - Adeeba
 - The questions that the team originally planned to answer with the project (2 points) - Sofia
