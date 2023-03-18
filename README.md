@@ -114,20 +114,20 @@ Because of how complicated our data was, we created a key to help us through the
 Key
 Mastery - Measures the percentage at which students Approaches Grade Level or Above, Meet Grade Level or Above, and Master Grade Level.
 YoY - Student's academic growth is measured by the difference of the test scores from the prior year and the current year.
-...
+... (TBC)
 
 ## Data Exploration and Analysis
 ### Overview
-Use tools like Tableau or JavaScript to build a dashboard that presents your results
+Use tools like Tableau or JavaScript to build a dashboard that presents your results (TBC)
 
 ### Machine Learning
-The final step of this project will involve machine learning and predictive analysis. In this segment, we will use supervised machine learning to make predictions of how scores may look for these student demographics in the coming years.
+The final step of this project will involve machine learning and predictive analysis. In this segment, we will use supervised machine learning to make predictions of how scores may look for these student demographics in the coming years. (TBC)
 
 ## Interpretation of Results
-
+(TBC)
 
 ## Conclusion
-While we weren't able ...Wdid....Moving forward, we would like to explore xyz
+(TBC)
 
 ## References
 1. National Center for Education Statistics. (2022). English Learners in Public Schools. Condition of Education. U.S. Department of Education, Institute of Education Sciences. Retrieved [date], from https://nces.ed.gov/programs/coe/indicator/cgf.
