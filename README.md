@@ -1,5 +1,5 @@
 # Academic Progress of Houston Region ELL Students from 2019-2022
-This project seeks to analysize the academic progress of English Language Learning (ELL or EL) students in the Houston Region of Texas between 2019-2022 (pre- and post- COVID-19). To see our final presentation [Click here]([https://github.com/](https://docs.google.com/presentation/d/1NOg834Tvg7LUZZ1kR1qbmaH5noaO-ygMyaTzDU676KA/edit?usp=sharing)).
+This project seeks to analysize the academic progress of English Language Learning (ELL or EL) students in the Houston Region of Texas between 2019-2022 (pre- and post- COVID-19). To see our final presentation [click here](https://docs.google.com/presentation/d/1NOg834Tvg7LUZZ1kR1qbmaH5noaO-ygMyaTzDU676KA/edit?usp=sharing).
 
 ## Project Overview
 English is considered one of the hardest languages to learn. For English Learners (ELs), the road to fluency is paved with challenges. Thankfully, many public schools offer language assistance programs to ensure that children speaking another language can attain English proficiency. In fall 2019, "Texas reported the highest percentage of ELs among its public school students (19.6 percent)" (1). The purpose of this project is to analyze the academic progress (math and reading) of ELLs in the Houston region of Texas. 
