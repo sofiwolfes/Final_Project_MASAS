@@ -46,7 +46,7 @@ Out of 20 regions in the state of Texas, we reviewed all 56 schools in Region 4 
 For more information on which schools were left out click the dropdown menu below.
 
 <details close>
-<summary>Harris County 2021-2022 STAAR Performance for Grade 3-7</summary>
+<summary>Harris County STAAR Performance for Grade 3-7</summary>
   <br>
 <ul><li>A+ Unlimited Potential - Removed because strictly middle school</li>
 <li>Academy of Accelerated Learning - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101810&prgopt=reports%2Ftapr%2Fperformance.sas</li>
