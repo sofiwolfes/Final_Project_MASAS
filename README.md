@@ -1,81 +1,5 @@
-# Final Project TO-DO List (Or things to keep in mind)
-
-Week 2 Deliverables for March 16th:
-- A detailed README.md file that includes the project status, images, descriptions, and results (20 points) - Accountable (Group) - Miracle
-- At least eight total commits per team member (20 points) - Accountable (Group) - Sofia
-- A machine learning model, including a confusion matrix and accuracy score (20 points) - Angela / Sofia
-- Database that stores data for the project with at least two tables or collections (20 points) - Shah
-
-Presentation Deliverables (Sofia to create): LINK: https://docs.google.com/presentation/d/1NOg834Tvg7LUZZ1kR1qbmaH5noaO-ygMyaTzDU676KA/edit?usp=sharing
-- The selected topic and the reasoning for that selection (2 points) - Adeeba
-- A description of the data (3 points) - Adeeba
-- The questions that the team originally planned to answer with the project (2 points) - Sofia
-- A description of the data exploration phase of the project (5 points) - Miracle
-- A description of the analysis phase of the project (5 points) - Shah
-- The technologies, languages, tools, and algorithms that the team used throughout the project (3 points) - Angela
-
-Additional Deliverables:
-- Rename columns in 1918, 1921, 2122 .csvs - Adeeba
-- Combine .csv files for 2018 - 22 into a single database - Shah
-- Try a simple linear regression model in the supervised ML
-- Basic visualizations and scripting - Miracle
-
-<hr>
-**Update based on David's feedback...can also be added to intro**
-<br>
-<br>
-David: "the stated focus is on Harris County, though in the group check-ins we discussed possibly expanding that to other counties in the state; the extreme being all counties.."
-<br>
-Our response: "Originally we were going to analyze data from one district in Texas; we were encouraged to expand our analysis to the whole county to enrichen our data vizualization and create a robust database. We decided to focus only on one county because of time constraints. However, long-term, we hope to incorporate all county data in our analysis. Our database includes all schools within Harris County, Texas."
-
-<hr>
-**We should come up with a time limit for each secion & develop drafts of what we'll say for each**
-<br>
-<br>
-<br>
-Presentation:
-
-Introducing data & cleaning (<1min)
-- where you got the data
-- edas
-- how we are storing the data
-- mention formatting (vba, jupyter notebook, SQL to combinded data)
-
-Potential speakers: Adeeba/Shah/Angela
-
-*Jupyter Notebook makes collaborating easier and it supports multiple languages, is compatible with various tools and applications, and offers open-source and cloud-based programming.*
-<br>
-<br>
-<br>
-
-Data Visualization
-
-Potential speakers: Sofia/Shah/Miracle
-<br>
-<br>
-<br>
-
-Machine learning (>2min)
-- linear regression (make sure x value have a linear relationship to your y values)
-- make simple scatter plots and see if there is any correlation or relationship, if you can't draw a line between them, then it won't work
-- Potential speakers: Adeeba/Shah/Angela
-
-<hr>
-
-Database -- Description Overview
-- Use [python/excel] to clean, prepare, and explore the data and to complete the initial analysis. 
-- Use database integration (Postgres, MongoDB, or SQLite) to store the data. 
-- Use Python libraries. Tableau, and JavaScript libraries—like Data-Driven Documents (D3) and Plotly—to create visuals that help tell your data story.
-- Use tools like Tableau or JavaScript to build a dashboard that presents your results
-<br>
-
-** This can be incorporated into intro when talking about data **
-<br>
-<br>
-Database Explanation:
-=======
 # Academic Progress of Houston Region ELL Students from 2019-2022
-This project seeks to analysize the academic progress of English Language Learning (ELL or EL) students in the Houston Region of Texas between 2019-2022 (pre- and post- COVID-19). To see our final presentation [click here](https://docs.google.com/presentation/d/1NOg834Tvg7LUZZ1kR1qbmaH5noaO-ygMyaTzDU676KA/edit?usp=sharing).
+This project seeks to analyze the academic progress of English Language Learning (ELL or EL) students in the Houston Region of Texas between 2019-2022 (pre- and post- COVID-19). To see our final presentation [click here](https://docs.google.com/presentation/d/1NOg834Tvg7LUZZ1kR1qbmaH5noaO-ygMyaTzDU676KA/edit?usp=sharing).
 
 ## Project Overview
 English is considered one of the hardest languages to learn. For English Learners (ELs), the road to fluency is paved with challenges. Thankfully, many public schools offer language assistance programs to ensure that children speaking another language can attain English proficiency. In fall 2019, "Texas reported the highest percentage of ELs among its public school students (19.6 percent)" (1). The purpose of this project is to analyze the academic progress (math and reading) of ELLs in the Houston region of Texas. 
@@ -90,15 +14,15 @@ In order to analyze this data accurately, we will complete the follow 5 steps:
 ## Questions
 Understanding the needs of children learning English in the US is very important in developing lesson plans that strengthen and promote growth. For our project, we came up with four questions to guide our analysis:
 - How do academic scores progress or change through the years for ELLs?
-- How do EL students academic scores comepare to students whose first language is english?
+- How do ELL students academic scores compare to students whose first language is english?
 - To what extent did the pandemic period impact the test scores of ELL students?
 - How did the language arts (reading & writing) scores compare to the Math and Science scores of ELL students?
 
-These questions are critical for helping us understand how ELL students develop proficieny over time, how they compare to their counterparts, and how the pandemic impacted their learning.
+These questions are critical for helping us understand how ELL students develop proficiency over time, how they compare to their counterparts, and how the pandemic impacted their learning.
 
 ## Data Collection
 ### Overview
-Originally, we were going to analyze data from one district in Texas; we were encouraged to expand our analysis to the whole state to enrichen our data vizualization and create a robust database. However, we decided to focus only on one county because of time constraints. Long-term, we hope to incorporate all county data in our analysis. Our database includes all schools within Harris County, Texas. 
+Originally, we were going to analyze data from one district in Texas; we were encouraged to expand our analysis to the whole state to enrich our data visualization and create a robust database. However, we decided to focus only on one county because of time constraints. Long-term, we hope to incorporate all county data in our analysis. Our database includes all schools within Harris County, Texas. 
 
 Stated on their website, "the Texas Education Agency is the state agency that oversees primary and secondary public education...The Texas Education Agency improves outcomes for all public school students in the state by providing leadership, guidance, and support to school systems" (2). The Texas Education Agency uses the State of Texas Assessments of Academic Readiness (STAAR®) program as a metric for measuring the academic growth and improvement of students year over year. Each year, a STAAR report card is published for students administered the assessment.
 
@@ -183,12 +107,12 @@ For more information on which schools were left out click the dropdown menu belo
 </details>
 
 ## Data Wrangling
-Cleaning and preparing the data was by far the hardest and most time consuming section of our project. To cover more ground, we split the group into two sections: Cleaning and Testing. One group was responsible for installing STAAR data for all 36 schools. In the process, they created a macro using VBA to reformat and renamed columns in each xlsx file. Next, they used Postgress (SQL) to combine and store all data sets into one database. The other group focused on testing out the newly cleaned database. They imported CSV files into  Jupyter notebook using Python's Pandas library to ensure files were cleaned.
+Cleaning and preparing the data was by far the hardest and most time consuming section of our project. To cover more ground, we split the group into two sections: Cleaning and Testing. One group was responsible for installing STAAR data for all 36 schools. In the process, they created a macro using VBA to reformat and rename columns in each xlsx file. Next, they used Postgres (SQL) to combine and store all data sets into one database. The other group focused on testing out the newly cleaned database. They imported CSV files into  Jupyter notebook using Python's Pandas library to ensure files were cleaned.
 
 Because of how complicated our data was, we created a key to help us through the analysis portion of our project.
 
 Key
-Mastery - Measures the percentage at which students Approaches Grade Level or Above, Meet Grade Level or Above, and Master Grade Level.
+Mastery - Measures the percentage at which students Approach Grade Level or Above, Meet Grade Level or Above, and Master Grade Level.
 YoY - Student's academic growth is measured by the difference of the test scores from the prior year and the current year.
 ... (TBC)
 
