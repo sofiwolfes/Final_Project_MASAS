@@ -1,134 +1,128 @@
-# Academic Progress of Houston Region ELL Students from 2019-2022
-This project seeks to analyze the academic progress of English Language Learning (ELL or EL) students in the Houston Region of Texas between 2019-2022 (pre- and post- COVID-19). To see our final presentation [click here](https://docs.google.com/presentation/d/1NOg834Tvg7LUZZ1kR1qbmaH5noaO-ygMyaTzDU676KA/edit?usp=sharing).
+# Final Project
+Analysis of the academic progress of students in Harris County Texas in between 2019-2022.
+<br>
 
-## Project Overview
-English is considered one of the hardest languages to learn. For English Learners (ELs), the road to fluency is paved with challenges. Thankfully, many public schools offer language assistance programs to ensure that children speaking another language can attain English proficiency. In fall 2019, "Texas reported the highest percentage of ELs among its public school students (19.6 percent)" (1). The purpose of this project is to analyze the academic progress (math and reading) of ELLs in the Houston region of Texas. 
-
-In order to analyze this data accurately, we will complete the follow 5 steps:
-1. Define questions and goals
-2. Collect data
-3. Data wrangling
-4. Determine analysis
-5. Interpret Results
-
-## Questions
-Understanding the needs of children learning English in the US is very important in developing lesson plans that strengthen and promote growth. For our project, we came up with four questions to guide our analysis:
-- How do academic scores progress or change through the years for ELLs?
-- How do ELL students academic scores compare to students whose first language is english?
-- To what extent did the pandemic period impact the test scores of ELL students?
-- How did the language arts (reading & writing) scores compare to the Math and Science scores of ELL students?
-
-These questions are critical for helping us understand how ELL students develop proficiency over time, how they compare to their counterparts, and how the pandemic impacted their learning.
-
-## Data Collection
 ### Overview
-Originally, we were going to analyze data from one district in Texas; we were encouraged to expand our analysis to the whole state to enrich our data visualization and create a robust database. However, we decided to focus only on one county because of time constraints. Long-term, we hope to incorporate all county data in our analysis. Our database includes all schools within Harris County, Texas. 
 
-Stated on their website, "the Texas Education Agency is the state agency that oversees primary and secondary public education...The Texas Education Agency improves outcomes for all public school students in the state by providing leadership, guidance, and support to school systems" (2). The Texas Education Agency uses the State of Texas Assessments of Academic Readiness (STAAR®) program as a metric for measuring the academic growth and improvement of students year over year. Each year, a STAAR report card is published for students administered the assessment.
+COVID-19 had a significant impact on students in the United States. The shift to virtual learning, social distancing requirements, and school closures disrupted the students' academic progress and social development. However, the pandemic's impact was particularly pronounced in the academic growth scores in Harris County, Texas. We wanted to understand if the performance of students in Harris County, TX - the largest county in Texas and the 8th largest county in the United States, was impacted similar to the State of Texas. 
 
-The STAAR program includes annual assessments for:
-- mathematics at grades 3–8
-- reading language arts (RLA) at grades 3-8
-- science at grades 5 and 8
-- social studies at grade 8
-- end-of-course (EOC) assessments for Algebra I, English I, English II, Biology, and U.S History
+In order to analyze this data accurately, we will follow the subsequent steps:
 
-We will only be looking at 2 subjects: mathematics and reading language arts (RLA).
+1. Clean and prepare data
+2. Data exploring & Visualization
+3. Provide analysis of results found
+4. Form predictions through machine learning
 
-### Database
-Out of 20 regions in the state of Texas, we reviewed all 56 schools in Region 4 (Houston). Our database is a compilation of all school districts from grades 3-7. Each school's data were downloaded from the TEA website, reformated, and cleaned using VBA and SQL. 
+Understanding the learning needs of children who are English Learners in the US is extremely important at this time more than ever. As we process and analyze this data, we will be focusing on the following questions in our analysis:
+* How to economically disadvantaged students perform by district
+* How did the pandemic period impact the test scores of English Learners (EL)? 
+* How did the pandemic period impact the test scores of multiracial students?
 
-20 Out of 56 Schools were not included in our database for the following reasons:
-- Excluded other grade levels (7)
-- Insufficient data or no data at all (7)
-- Insufficient or no ELL data (6)
+The final step of this project will involve machine learning and predictive analysis. In this segment, we will use supervised machine learning to make predictions of how scores may look for these student demographics in the coming years. 
 
-For more information on which schools were left out click the dropdown menu below.
+ 
+### Segment 1 
+Content | Action items:
+- Create a detailed README.md file
+- Have at least four commits per team member (20 commits total)
+- Have a database that stores at least two tables (or collections) for the project
 
-<details close>
-<summary>Harris County STAAR Performance for Grade 3-7</summary>
-  <br>
-<ul><li>A+ Unlimited Potential - Removed because strictly middle school</li>
-<li>Academy of Accelerated Learning - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101810&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Accelerated Intermediate Academy - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101849&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Aldine ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101902&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Alief_ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101903&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Alief Montessori Community School - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101815&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Amigos Por Vida Charter School - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101819&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Aristoi Classical Academy - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101803&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Beatrice Mayes Institute Charter School - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101847&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Beta Academy - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101870&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Bloom Academy - Removed data set due to no grade levels beyond Grade 3 and Grade 4</li>
-<li>Calvin Nelms Charter School - Removed data set due to no Grade 3 - Grade 5</li>
-<li>Channelview ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101905&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Comquest Academt removed due to insufficient data set</li>
-<li>Crosby ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101906&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Cypress-Fairbanks ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101907&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Deer Park ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101908&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Draw Academy - removed due to insufficient data set</li>
-<li>Elevate Collegiate Charter School - removed due to no data available</li>
-<li>Etoile Academy Charter School - removed due to no Grade 3 - Grade 4 Data</li>
-<li>Excel Academy - removed due to insufficient data set</li>
-<li>Galena Park ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101910&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>George I Sanchez Charter - removed due to no Grade 3 - Grade 5 data</li>
-<li>Goose Creek CISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101911&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Harmony Public Schools North - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101858&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Harmony Public Schools South - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101846&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Harmony Public Schools West - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101862&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Houston Classical Charter - removed due to no data available</li>
-<li>Houston Gateway Academy - removed due to insufficient data set</li>
-<li>Houston Heights High School - removed due to no Grade 3 - Grade 7 data</li>
-<li>Houston ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101912&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Huffman ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101925&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Humble ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101913&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Katy ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101914&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Klein ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101915&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>La Porte ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101916&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Legacy School of Sport Sciences - removed due to no ELL data</li>
-<li>Meyerpark Elementary - removed due to no ELL data</li>
-<li>Pasadena ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101917&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Promise Community School - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101853&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Raul Yzaguirre School for Success - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101806&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Reve Prep Charter School - removed due to insufficient data for ethnicity and ELL</li>
-<li>Ser-Ninos Charter School - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101802&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Sheldon ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101924&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Southwest School - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101838&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Spring Branch ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101920&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Spring ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101919&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Step Charter School - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101859&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Lawson Academy - removed due to no ELL data</li>
-<li>Pro-Vision Academy - removed due to insufficient ethnicity data</li>
-<li>Rhodes School for Performing Arts - removed due to no ELL data</li>
-<li>Varnett Public School - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101814&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Tomball ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101921&prgopt=reports%2Ftapr%2Fperformance.sas</li>
-<li>Two Dimensions Prep Academy - removed due to no ELL data</li>
-<li>Yellowstone College Prep - removed due to no Grade 3 - Grade 4</li>
-<li>Yes Prep Schools - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101845&prgopt=reports%2Ftapr%2Fperformance.sas</li></ul>
-</details>
+<br>
+3/7 Questions:
+What grade(s) are we going to look at and why?
+There are some grades that include more subjects than other grades. What are we going to do about that?
 
-## Data Wrangling
-Cleaning and preparing the data was by far the hardest and most time consuming section of our project. To cover more ground, we split the group into two sections: Cleaning and Testing. One group was responsible for installing STAAR data for all 36 schools. In the process, they created a macro using VBA to reformat and rename columns in each xlsx file. Next, they used Postgres (SQL) to combine and store all data sets into one database. The other group focused on testing out the newly cleaned database. They imported CSV files into  Jupyter notebook using Python's Pandas library to ensure files were cleaned.
 
-Because of how complicated our data was, we created a key to help us through the analysis portion of our project.
+Database
+- Use [python/excel] to clean, prepare, and explore the data and to complete the initial analysis. 
+- Use database integration (Postgres, MongoDB, or SQLite) to store the data. 
+- Use Python libraries. Tableau, and JavaScript libraries—like Data-Driven Documents (D3) and Plotly—to create visuals that help tell your data story.
+- Use tools like Tableau or JavaScript to build a dashboard that presents your results
 
-Key
-Mastery - Measures the percentage at which students Approach Grade Level or Above, Meet Grade Level or Above, and Master Grade Level.
-YoY - Student's academic growth is measured by the difference of the test scores from the prior year and the current year.
-... (TBC)
 
-## Data Exploration and Analysis
-### Overview
-Use tools like Tableau or JavaScript to build a dashboard that presents your results (TBC)
+### Deliverable 1
 
-### Machine Learning
-The final step of this project will involve machine learning and predictive analysis. In this segment, we will use supervised machine learning to make predictions of how scores may look for these student demographics in the coming years. (TBC)
+Started going through the data in excel. Using formulas to clean the data. 
 
-## Interpretation of Results
-(TBC)
+exported file into SQL and started to create tabels 
 
-## Conclusion
-(TBC)
+Imported CSV Files into Pandas ran code to make us files are being read
+=======
+exported file into SQL and started to create tabels
 
-## References
+
+### Deliverable 2
+Prepare and deliver a presentation that takes your class through your project, step by step.
+
+Action items:
+
+
+
+### Deliverable 3
+Write a short personal reflection after submitting your final project.
+
+Action items:
+
+<br>
+
+### Citations:
 1. National Center for Education Statistics. (2022). English Learners in Public Schools. Condition of Education. U.S. Department of Education, Institute of Education Sciences. Retrieved [date], from https://nces.ed.gov/programs/coe/indicator/cgf.
-2. About tea. Texas Education Agency. (2022, September 20). Retrieved March 18, 2023, from https://tea.texas.gov/about-tea#:~:text=The%20Texas%20Education%20Agency%20is,and%20support%20to%20school%20systems. 
+
+
+### Data Sets Used - Harris County 2021-2022 STAAR Performance for Grade 3-7 only for the following schools:
+1. A+ Unlimited Potential - Removed because strictly middle school
+2. Academy of Accelerated Learning - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101810&prgopt=reports%2Ftapr%2Fperformance.sas
+3. Accelerated Intermediate Academy - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101849&prgopt=reports%2Ftapr%2Fperformance.sas
+4. Aldine ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101902&prgopt=reports%2Ftapr%2Fperformance.sas
+5. Alief_ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101903&prgopt=reports%2Ftapr%2Fperformance.sas
+6. Alief Montessori Community School - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101815&prgopt=reports%2Ftapr%2Fperformance.sas
+7. Amigos Por Vida Charter School - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101819&prgopt=reports%2Ftapr%2Fperformance.sas
+8. Aristoi Classical Academy - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101803&prgopt=reports%2Ftapr%2Fperformance.sas
+9. Beatrice Mayes Institute Charter School - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101847&prgopt=reports%2Ftapr%2Fperformance.sas
+10. Beta Academy - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101870&prgopt=reports%2Ftapr%2Fperformance.sas
+11. Bloom Academy - Removed data set due to no grade levels beyond Grade 3 and Grade 4 
+12. Calvin Nelms Charter School - Removed data set due to no Grade 3 - Grade 5
+13. Channelview ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101905&prgopt=reports%2Ftapr%2Fperformance.sas
+14. Comquest Academt removed due to insufficient data set 
+15. Crosby ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101906&prgopt=reports%2Ftapr%2Fperformance.sas
+16. Cypress-Fairbanks ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101907&prgopt=reports%2Ftapr%2Fperformance.sas
+17. Deer Park ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101908&prgopt=reports%2Ftapr%2Fperformance.sas
+18. Draw Academy - removed due to insufficient data set
+19. Elevate Collegiate Charter School - removed due to no data available
+20. Etoile Academy Charter School - removed due to no Grade 3 - Grade 4 Data 
+21. Excel Academy - removed due to insufficient data set 
+22. Galena Park ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101910&prgopt=reports%2Ftapr%2Fperformance.sas
+23. George I Sanchez Charter - removed due to no Grade 3 - Grade 5 data
+24. Goose Creek CISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101911&prgopt=reports%2Ftapr%2Fperformance.sas
+25. Harmony Public Schools North - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101858&prgopt=reports%2Ftapr%2Fperformance.sas
+26. Harmony Public Schools South - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101846&prgopt=reports%2Ftapr%2Fperformance.sas
+27. Harmony Public Schools West - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101862&prgopt=reports%2Ftapr%2Fperformance.sas
+28. Houston Classical Charter - removed due to no data available
+29. Houston Gateway Academy - removed due to insufficient data set
+30. Houston Heights High School - removed due to no Grade 3 - Grade 7 data
+31. Houston ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101912&prgopt=reports%2Ftapr%2Fperformance.sas
+32. Huffman ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101925&prgopt=reports%2Ftapr%2Fperformance.sas
+33. Humble ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101913&prgopt=reports%2Ftapr%2Fperformance.sas
+34. Katy ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101914&prgopt=reports%2Ftapr%2Fperformance.sas
+35. Klein ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101915&prgopt=reports%2Ftapr%2Fperformance.sas
+36. La Porte ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101916&prgopt=reports%2Ftapr%2Fperformance.sas
+37. Legacy School of Sport Sciences - removed due to no ELL data
+38. Meyerpark Elementary - removed due to no ELL data
+39. Pasadena ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101917&prgopt=reports%2Ftapr%2Fperformance.sas
+40. Promise Community School - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101853&prgopt=reports%2Ftapr%2Fperformance.sas
+41. Raul Yzaguirre School for Success - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101806&prgopt=reports%2Ftapr%2Fperformance.sas
+42. Reve Prep Charter School - removed due to insufficient data for ethnicity and ELL
+43. Ser-Ninos Charter School - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101802&prgopt=reports%2Ftapr%2Fperformance.sas
+44. Sheldon ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101924&prgopt=reports%2Ftapr%2Fperformance.sas
+45. Southwest School - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101838&prgopt=reports%2Ftapr%2Fperformance.sas
+46. Spring Branch ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101920&prgopt=reports%2Ftapr%2Fperformance.sas
+47. Spring ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101919&prgopt=reports%2Ftapr%2Fperformance.sas
+48. Step Charter School - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101859&prgopt=reports%2Ftapr%2Fperformance.sas
+49. Lawson Academy - removed due to no ELL data
+50. Pro-Vision Academy - removed due to insufficient ethnicity data
+51. Rhodes School for Performing Arts - removed due to no ELL data
+52. Varnett Public School - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101814&prgopt=reports%2Ftapr%2Fperformance.sas
+53. Tomball ISD - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101921&prgopt=reports%2Ftapr%2Fperformance.sas
+54. Two Dimensions Prep Academy - removed due to no ELL data
+55. Yellowstone College Prep - removed due to no Grade 3 - Grade 4
+56. Yes Prep Schools - https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&lev=D&id=101845&prgopt=reports%2Ftapr%2Fperformance.sas
