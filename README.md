@@ -108,33 +108,139 @@ For more information on which schools were left out click the dropdown menu belo
 ## Data Wrangling
 Cleaning and preparing the data was by far the hardest and most time consuming section of our project. To cover more ground, we split the group into two sections: Cleaning and Testing. One group was responsible for installing STAAR data for all 36 schools. In the process, they created a macro using VBA to reformat and renamed columns in each xlsx file. Next, they used Postgress (SQL) to combine and store all data sets into one database. The other group focused on testing out the newly cleaned database. They imported CSV files into Jupyter notebook using Python's Pandas library to ensure files were cleaned.
 
-Because of how complicated our data was, we created a key to help us through the analysis portion of our project.
+Here is an excerpt of what the data looked like before wrangling.
+
+
+Because of how complicated our data was, we created a key to help us through the analysis portion of our project. The key highlights specific variables that had the potentional of causing confusion.
 
 Key:
-<li>Mastery - Measures the percentage at which students Approaches Grade Level or Above, Meet Grade Level or Above, and Master Grade Level</li>
-<li>YoY - Student's academic growth is measured by the difference of the test scores from the prior year and the current year</li>
-<li>Monitored & Former ELL -  Students who were once identified as ELs but have reclassified as English proficient, including students who've been monitored at the state and federal level</li>
-<li>English Learner (EL) - The count and percentage of students whose primary language is not English and who are in the process of acquiring English</li>
+- Mastery - Measures the percentage at which students Approaches Grade Level or Above, Meet Grade Level or Above, and Master Grade Leve
+- YoY - Student's academic growth is measured by the difference of the test scores from the prior year and the current year
+- Monitored & Former ELL -  Students who were once identified as ELs but have reclassified as English proficient, including students who've been monitored at the state and federal level
+- English Learner (EL) - The count and percentage of students whose primary language is not English and who are in the process of acquiring English
 
-For more info [click here](https://rptsvr1.tea.texas.gov/perfreport/tprs/comprehensive-tprs-glossary-2021.pdf).
+
+For more info on other variables [click here](https://rptsvr1.tea.texas.gov/perfreport/tprs/comprehensive-tprs-glossary-2021.pdf).
 
 Here are some excerpts from the Data Wrangling Phase:
-VBA
 
+VBA Code used to import, modify, and format data into CSV files
+``` VBA
+Sub ImportAndFormatXLS()
+    'Declare variables
+    Dim wb As Workbook
+    Dim ws As Worksheet
+    Dim rng As Range
+    Dim lastCol As Long
+    Dim i As Long
+    
+    'Open the file dialog box to select the XLS file
+    Set wb = Workbooks.Open(Filename:=Application.GetOpenFilename("Excel Files (*.xls),*.xls"))
+    
+    'Set the worksheet variable to the first sheet in the workbook
+    Set ws = wb.Worksheets(1)
+    
+    'Select all cells in the worksheet
+    ws.Cells.Select
+    
+    'Delete the first three rows
+    Selection.Rows("1:3").Delete Shift:=xlUp
+    
+    'Insert a new column A
+    ws.Columns("A:A").Insert Shift:=xlToRight
+    
+    'Determine the last column in the worksheet
+    lastCol = ws.Cells(1, ws.Columns.Count).End(xlToLeft).Column
+    
+    'Loop through every other column starting with column C
+    For i = 3 To lastCol Step 2
+        'Insert a new column to the right of the current column
+        ws.Columns(i + 1).Insert Shift:=xlToRight
+    Next i
+    
+    'Close the workbook without saving changes
+    wb.Close SaveChanges:=False
+End Sub
 
+```
 
-Pandas
+Pandas we also used to clean the data and matplotlib for data exploration.
+```Python
+# DATA CLEANING Starr Data 2018-2019 (SA)
 
+# Display the data table for preview
+sa1_df.head()
 
+# Find missing values
+sa1_df.isnull().sum()
 
-SQL
+# drop NaNs
+sa1_df = sa1_df.dropna()
 
+# change column names
+sa1_df.rename(columns={"Primary_Key_2018_2019": "key", "School_Name": "school", "Grade_Test_Type":"grade-sub", "Mastery_Level":"mastery", "Baseline_Year":"baseyr", "Compared_Year":"compyr", "YOY_State_2019":"state", "YOY_Region_2019":"region", "YOY_District_2019":"district", "YOY_African_American_2019":"afriamer", "YoY_Hispanic_2019":"hispan", "YoY_White_2019":"white", "YoY_Econ_Disadv_2019":"edisadv", "YoY_ELL_2019":"ell"}, inplace=True)
+sa1_df
 
+# drop base and compared year
+sa_df = sa1_df.drop(columns=["key", "baseyr", "compyr"])
+sa_df
+
+# drop rows that contain the partial string "Grade 8" and "End of Course"
+## sa_df[~sa_df.grade-sub.str.contains("|".join(discard))] - doesn't work
+sa_df = sa_df.drop(sa_df[sa_df["grade-sub"].str.contains("8")].index)
+sa_df = sa_df.drop(sa_df[sa_df["grade-sub"].str.contains("End")].index)
+sa_df
+```
+
+SQL to create tables and merge datasets
+```PostgreSQL
+CREATE TABLE STAAR_Performance_2022_101912(
+School_Year Date Not Null,
+States int Not Null,
+Region int Not Null,
+District int Not Null,
+African_American int Not Null,
+Hispanic int Not Null,
+White int Not Null,
+American_Indian int Not Null,
+Asian int Not NUll,
+Pacific_Islander int Not Null,
+Two_or_More_Races int Not Null,
+Special_Ed_Current int Not Null,
+Special_Ed_Former int  Not Null,
+Continuously_Enrolled int Not Null,
+Non_Continuously_Enrolled int Not Null,
+Econ_Disadv int Not Null,
+EB_EL_Current_And_Monitored int Not Null,
+
+PRIMARY KEY (District)
+--FOREIGN KEY (State_Scores)
+);
+```
 
 ## Data Exploration and Analysis
 ### Overview
-Used R/Rstudio to create scatter plots showing the differences and/or similarities between subpopulations. Machine learning: supervised learning model and linear regression model algorithm in predicting student scores with this model; Statistical Analysis with R. Tableau was used to create visualizations that aided our analysis
+During the exploration phase, we used Matplotlib to explore our database, R/Rstudio for our statistical analysis which showcases the difference and/or similarities between subpopulations. For Machine learning, we used a supervised learning model and a linear regression model algorithm in predicting student scores; and, finally, Tableau to create visualizations that aided our analysis.
 
+Matplotlib was used to show test score changes over three years: 2019, 2021, and 2022.
+```Python Matplotlib
+# Histogram looking at frequency of increase and/or decrease in state scores
+sa_df.hist(column="state", color="orange")
+plt.suptitle("Histogram of State Scores in 2019")
+plt.xlabel("Percentage of Change in Test Scores")
+plt.ylabel("Population")
+```
+![Histogram of State Scores in 2019](Histogram2019.png)
+
+![Histogram of State Scores in 2021](Histogram2021.png)
+
+![Histogram of State Scores in 2022](Histogram2022.png)
+
+Tableau was also involved in the data exploration phase.
+
+We were able to compare student scores across all zipcodes comprising Harris County.
+
+<img src="https://public.tableau.com/shared/9XX764JXX?:display_count=n&:origin=viz_share_link" alt="Student Scores by Zipcode" title="Student Test Scores by Race and Zipcode">
 
 How did economically disadvantaged students perform by district?
 Insert image
