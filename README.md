@@ -120,10 +120,9 @@ Key:
 - English Learner (EL) - The count and percentage of students whose primary language is not English and who are in the process of acquiring English
 
 
-For more info on other variables [click here](https://rptsvr1.tea.texas.gov/perfreport/tprs/comprehensive-tprs-glossary-2021.pdf).
-
-Here are some excerpts from the Data Wrangling Phase:
-
+For more info on other variables [click here](https://rptsvr1.tea.texas.gov/perfreport/tprs/comprehensive-tprs-glossary-2021.pdf).<br />
+<br />
+Here are some excerpts from the Data Wrangling Phase:<br />
 VBA Code used to import, modify, and format data into CSV files
 ``` VBA
 Sub ImportAndFormatXLS()
@@ -230,50 +229,35 @@ plt.suptitle("Histogram of State Scores in 2019")
 plt.xlabel("Percentage of Change in Test Scores")
 plt.ylabel("Population")
 ```
-![Histogram of State Scores in 2019](Histogram2019.png)
-
-![Histogram of State Scores in 2021](Histogram2021.png)
-
-![Histogram of State Scores in 2022](Histogram2022.png)
-
+![Histogram of State Scores in 2019](Histogram2019.png)<br />
+![Histogram of State Scores in 2021](Histogram2021.png)<br />
+![Histogram of State Scores in 2022](Histogram2022.png)<br />
+<br />
 Tableau was also involved in the data exploration phase.
-
-We were able to compare student scores across all zipcodes comprising Harris County.
-
+We were able to compare student scores across all zipcodes comprising Harris County.<br />
 <img src="https://public.tableau.com/shared/9XX764JXX?:display_count=n&:origin=viz_share_link" alt="Student Scores by Zipcode" title="Student Test Scores by Race and Zipcode">
 
-How did economically disadvantaged students perform by district?
-Insert image
+### Questions
+How did economically disadvantaged students perform by district? (map shows data from year 2021-2022)<br />![Economically Disadvantaged by District](https://public.tableau.com/views/FinalProject1_16796165371060/EconDisadv?:language=en-US&:display_count=n&:origin=viz_share_link)<br />
+In future studies, we want to see how this progresses and what factors may impact on this performance and we want to explore similarities and differences with different populations. 
 
-The below map is showing data from year 2021-2022
-In future studies, we want to see how this progresses and what factors may impact on this performance differences
-Explore similarities and differences with other type of population. 
+How did the pandemic period impact the test scores of English Learners (ELL)?<br />
+<img src="https://public.tableau.com/views/FinalProject2_16796164927570/Story1?:language=en-US&:display_count=n&:origin=viz_share_link" alt="Test Scores of EL from 2019-2022" title="Test Scores of EL by Year"><br />
+The following bar chart shows that during the pandemic, there was a recess on the academic performance of ELL students. Similarly than the average performance for ELL students in the whole state and students economically disadvantaged. Opposite to that - the years prior and after Covid, the performance was improving over the years.
 
-
-How did the pandemic period impact the test scores of English Learners (ELL)?
-insert image
-
-The following bar chart shows that during the pandemic, there was a recess on the academic performance of ELL students
-Similarly than the average performance for ELL students in the whole state and students economically disadvantaged
-Opposite to that - the years prior and after Covid, the performance was improving over the years
-
-
-How did the pandemic period impact the test scores of students of different ethnic backgrounds?
-insert image
-
-The following bar chart shows that during the pandemic, there was a recess on the academic performance of students of all ethnic backgrounds.
-The years prior and after Covid, the performance was improving over the years
-
+How did the pandemic period impact the test scores of students of different ethnic backgrounds?<br />
+<img src="https://public.tableau.com/shared/4NGFJ23XW?:display_count=n&:origin=viz_share_link" alt="Test scores of students from diverse backgrounds" title="Test Scores of Students by Ethnic Background and Year"><br />
+The following bar chart shows that during the pandemic, there was a recess on the academic performance of students of all ethnic backgrounds. The years prior and after Covid, the performance was improving over the years.
 
 ## Machine Learning
-The final step of this project will involve machine learning and predictive analysis. In this segment, we will use supervised machine learning to make predictions of how scores may look for these student demographics in the coming years. 
+The final step of this project will involve machine learning and predictive analysis. In this segment, we will use supervised machine learning to make predictions of how scores may look for student demographics in the coming years. 
 
 ### Overview
-In this segment, we went through a few different trials to figure out which model would match this data best.
-The goal we set out for was to predict the academic progress for students in Harris County Texas in coming years. In a real world situation, this kind of predictive analysis would be useful to school districts and state education departments to make general predictions regarding resources for upcoming school years.
-Our first attempt with machine learning was using supervised machine learning. In testing things out, we tried logistic regression and then linear regression. Logistic regression gave us some difficult errors and we ended up realizing that this would be better suited for a binary output, which is not what we were aiming for.
-Next, I ran linear regression code, to see if a linear correlation could be found between the two variables that we were comparing. At this time, I was comparing one student demographic, for example English Language Learners (ELL) against school district data. 
-I ran this code many times, using different variables, and sometimes having to use different data sets as we narrowed down what we needed. For example, at first, I used a combined dataset to show all data from 2018-2022, but then we realized it would be beneficial to answering our questions for us to see student data specifically from certain school year, such as 2018-2019, 2019-2021, 2021-2022. This way, we could begin to answer our questions around what we can say about student scores in this county, before, during, and “after” the pandemic.
+In this segment, we went through different trials to figure out which model would pair well with our dataset. Our goal was to predict the academic progress for students in Harris County Texas in the coming years. In a real world situation, this kind of predictive analysis would help school districts and state education departments predict the success or failure of new curriculum, programs, or initiatives to increase test scores.
+
+### Statistical Analysis
+We faced a lot of challenges in creating an algorithm that would predict future test scores. Our first attempt at creating an algorithim was using logistical regression. Logisitical regression gave us difficult errors that helped us realize this statistical model would be better suited for a binary output -- which is not what we were aiming for. Next we used linear regression to identify variables that were correlated with one another. For example, we compared student demographics against district and state scores. Over time, we began narrowing our search, excluding variables and data sets that had no correlations. For example, we originally used combined data of years 2019, 2021 and 2022; but broke it down to specific school years 2018-2019 or 2021-2022. This way, we could answer explain student test scores beofre, during, and/or after the pandemic (or a event).
+
 
 ### Results
 We found that: 
